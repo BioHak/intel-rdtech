@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T14:37:25.276767+00:00",
-  "record_count": 233,
+  "generated_at": "2026-10-22T19:25:55.170899+00:00",
+  "record_count": 243,
   "source_count": 4,
   "source_status": [
     {
@@ -34,12 +34,29 @@
       "source_id": "biorxiv",
       "name": "bioRxiv",
       "ok": true,
-      "records": 197,
-      "examined": 1729,
+      "records": 207,
+      "examined": 1772,
       "warning": null
     }
   ],
   "records": [
+    {
+      "title": "FDA Launches New Program to Advance Neuroscience Medical Product Development",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "content_type": "regulatory",
+      "evidence_stage": null,
+      "published": "2026-10-22T21:58:19+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-new-program-advance-neuroscience-medical-product-development",
+      "summary": "FDA announces the launch of the Neuroscience Advancement and Innovation Nexus (NAIN), a new agency program aligned with the Trump Administration’s efforts to accelerate medical innovation and deliver breakthrough treatments.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
     {
       "title": "Recordanelles capture transient gene expression in single human cells",
       "source": "Nature Biotechnology",
@@ -49,7 +66,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-22T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03350-7",
-      "summary": "<p>Nature Biotechnology, Published online: 22 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03350-7\">doi:10.1038/s41587-026-03350-7</a></p>RNA sequencing can capture high-resolution snapshots of a cell’s transcriptome, but transient changes in individual cells cannot be captured over long periods at a transcriptome-wide scale. Now, a synthetic organelle termed the ‘recordanelle’ can record cellular RNAs in cells for several days and be read with single-cell sensitivity.",
+      "summary": "RNA sequencing can capture high-resolution snapshots of a cell’s transcriptome, but transient changes in individual cells cannot be captured over long periods at a transcriptome-wide scale. Now, a synthetic organelle termed the ‘recordanelle’ can record cellular RNAs in cells for several days and be read with single-cell sensitivity.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -66,7 +83,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-22T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03358-z",
-      "summary": "<p>Nature Biotechnology, Published online: 22 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03358-z\">doi:10.1038/s41587-026-03358-z</a></p>ALTER is a programmable RNA base editor built entirely from human proteins. By using human AGO2 instead of bacterial CRISPR–Cas proteins, ALTER mitigates a key risk factor for harmful immune responses in therapeutic applications while also proving generally more effective than dCas13-based editors.",
+      "summary": "ALTER is a programmable RNA base editor built entirely from human proteins. By using human AGO2 instead of bacterial CRISPR–Cas proteins, ALTER mitigates a key risk factor for harmful immune responses in therapeutic applications while also proving generally more effective than dCas13-based editors.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -339,6 +356,247 @@
       "corresponding_institution": "Riphah International University, Faisalabad"
     },
     {
+      "title": "Inducible, virus-free direct lineage reprogramming enhances scalable generation of human inner ear hair cell-like cells",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.1101/2025.02.20.639352",
+      "summary": "Mammalian inner ear sensory hair cells are highly sensitive to environmental stress and do not regenerate, making hearing loss progressive and permanent. The paucity and extreme inaccessibility of these cells hinder the development of regenerative and otoprotective strategies, Direct lineage reprogramming to generate large quantities of hair cell-like cells in vitro offers a promising approach to overcome these experimental bottlenecks. Previously, we identified four transcription factors-Six1, Atoh1, Pou4f3, and Gfi1 (SAPG)-capable of converting mouse embryonic fibroblasts, adult tail tip fibroblasts, and postnatal mouse supporting cells into induced hair cell-like cells through retroviral or lentiviral transduction (Menendez et al., 2020). Here, we developed a virus-free, inducible system using a stable human induced pluripotent stem (iPS) cell line carrying doxycycline-inducible SAPG. Our inducible system significantly increases reprogramming efficiency compared to retroviral methods, achieving a ~19-fold greater conversion to a hair cell fate in half the time. Immunostaining, Western blot, and single-nucleus RNA-seq analyses confirm the expression of hair cell-specific markers and activation of hair cell gene networks in reprogrammed cells. The reprogrammed hair cells closely resemble developing fetal hair cells, as evidenced by comparison with a human fetal inner ear dataset. Electrophysiological analysis reveals that the induced hair cell-like cells exhibit diverse voltage-dependent ion currents, including robust, quick-activating, slowly inactivating currents characteristic of primary hair cells. This virus-free approach improves scalability, reproducibility, and the modeling of hair cell differentiation, offering significant potential for hair cell regenerative strategies and preclinical drug discovery targeting ototoxicity and otoprotection.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.1101/2025.02.20.639352",
+      "preprint_doi": "10.1101/2025.02.20.639352",
+      "published_doi": "NA",
+      "version": "2",
+      "category": "developmental biology",
+      "authors": "Rainey, R. N.; Houman, S. D.; Menendez, L.; Chang, R.; Tao, L.; Bugacov, H.; McMahon, A. P.; Kalluri, R.; Oghalai, J. S.; Groves, A. K.; Segil, N.",
+      "corresponding_author": "Robert N. Rainey",
+      "corresponding_institution": "Keck University of Southern California"
+    },
+    {
+      "title": "Aberrant cortical reorganization and astrogliosis underlie memory deficit post-traumatic brain injury: a longitudinal multiscale multimodal study",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759571",
+      "summary": "Integrating high-dimensional neuroimaging data across spatial scales remains a fundamental bottleneck in quantitative neuroscience. Here, we apply emerging analytical techniques including functional connectome gradient mapping and 3D segmentation of whole-brain cellular resolution microscopy data in a mouse model of traumatic brain injury. At the macroscale, longitudinal functional MRI revealed a transition from frontal hyperconnectivity to hippocampal hypoconnectivity and unimodal-transmodal gradient contraction indicating network dedifferentiation. At the cellular scale, deep-learning based segmentation of whole-brain light-sheet fluorescence microscopy volumes quantified regional astrogliosis, neuronal hyperactivity, and single-axon loss undetected by standard diffusion MRI. Multiscale multimodal data integration not only identified quantitative biomarkers predictive of memory performance post-injury but also enabled validation of in vivo modalities against more sensitive ex vivo histology. This study demonstrates a framework for probing complex multi-network cognitive functions and neurological disorders of network dysfunction.",
+      "topics": [
+        "scientific_informatics"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.10.16.759571",
+      "preprint_doi": "10.64898/2026.10.16.759571",
+      "published_doi": "NA",
+      "version": "1",
+      "category": "neuroscience",
+      "authors": "Tan, J.; Patel, S.; Xu, T.; Dorr, A.; Almanza, D. L. V.; Osmann, J.; Rabelo, T.; Vecchio, L.; McLaurin, J.; Wang, C.; Lipsman, N.; Burke, M.; Aubert, I.; Hamani, C.; Stefanovic, B.; Goubran, M.",
+      "corresponding_author": "Maged Goubran",
+      "corresponding_institution": "University of Toronto"
+    },
+    {
+      "title": "kinGEMs: A Robust and Scalable Framework for Resource-Constraint Models through Stochastic Tuning of Deep Learning-Predicted Kinetic Parameters",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.03.14.711833",
+      "summary": "The construction of accurate enzyme-constrained genome-scale models (ecGEMs) remains a critical challenge in systems biology, limited by sparse kinetic data and the need for biologically meaningful representations. This work presents an integrated framework combining CPI-Pred, a deep learning model to predict kinetic parameters (kcat) from sequence and compound embeddings, with kinGEMs, a pipeline to incorporate these uncertainty-aware parameters into ecGEMs for metabolic optimization. By leveraging representations at multiple scales, the approach captures sequence, structure, and kinetic data to enhance model generalizability and accuracy. Rigorous benchmarking demonstrates the framework's capability to predict growth rates and fluxes that are consistent with experimental observations and measured proteome fractions, reduce median flux variability by several folds, and yield better-constrained metabolic models by explicitly accounting for the uncertainty inherent in ML-predicted kinetic parameters. kinGEMs successfully generated ecGEMs for 93 models spanning a phylogenetically diverse set of organisms including Gram-negative and Gram-positive bacteria, mycobacteria, parasitic protists, fungi, and mammalian cell lines. These innovations breakdown the barrier to application of ecGEMs to non-model organisms and open new avenues for metabolic engineering and synthetic biology in more industrially relevant hosts.",
+      "topics": [
+        "ai_drug_discovery",
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.03.14.711833",
+      "preprint_doi": "10.64898/2026.03.14.711833",
+      "published_doi": "NA",
+      "version": "2",
+      "category": "bioengineering",
+      "authors": "A. Barghout, R.; Chinas Serrano, L.; Sanchez-Lengeling, B.; Mahadevan, R.",
+      "corresponding_author": "Rana A. Barghout",
+      "corresponding_institution": "University of Toronto"
+    },
+    {
+      "title": "How AlphaFold 3 helps with multiscale drug discovery",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.757941",
+      "summary": "AlphaFold 3 (AF3) predicts protein ligand complexes, but the utility of its confidence scores for drug discovery remains unclear. We benchmarked AF3 interaction scores against BANDOCK+, an experimentally informed approach, using approved drugs and human protein libraries. AF3 ipTM achieved slightly higher observed aggregate disease ranking scores in a matched 1,103 protein comparison, with performance varying among individual indications. BANDOCK+ enabled substantially broader protein coverage using a computationally less demanding approach, including a 20,158 protein reference library. These findings highlight the potential of AF3 confidence scores for computational drug discovery and the tradeoffs between predictive performance and scalability.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.10.19.757941",
+      "preprint_doi": "10.64898/2026.10.19.757941",
+      "published_doi": "NA",
+      "version": "2",
+      "category": "bioinformatics",
+      "authors": "Akabari, R.; Mangione, W.; Falls, Z.; Samudrala, R.",
+      "corresponding_author": "Ram Samudrala",
+      "corresponding_institution": "University at Buffalo"
+    },
+    {
+      "title": "Predicting Pre-treatment Resistance or Post-treatment Effect? A Systematic Benchmarking of Single-Cell Drug Response Models",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.04.10.717709",
+      "summary": "Intratumoral heterogeneity drives variable drug responses in cancer. Single-cell RNA sequencing (scRNA-seq) enables characterization of such heterogeneity and prediction of drug response at single-cell resolution. Accordingly, various computational models have been developed to infer drug response from scRNA-seq data. However, their performance, robustness, and generalizability across different biological contexts remain insufficiently evaluated. To address this gap, we benchmarked representative single-cell drug response prediction models using 26 curated datasets comprising over 760,000 cells across 12 cancer types and 21 therapeutic agents. We constructed balanced and imbalanced scenarios to explore model behavior under different label distributions. To address the lack of ground-truth labels in conventional scRNA-seq datasets, we incorporated two lineage-tracing datasets with experimentally validated drug-response annotations, enabling evaluation in a clinically relevant pre-treatment prediction setting. Our results show that prediction performance was markedly higher in cell lines than in tissue samples and varied substantially across datasets, treatment types, and imbalance levels. Under increasing class imbalance, several methods showed reduced performance, and no single method consistently dominated across all evaluation settings. In lineage-tracing datasets, treatment-associated states were more readily distinguished than lineage-defined pre-sensitive and pre-resistant states, while transcriptomic analyses indicated that pre-existing resistance-related signals were detectable but relatively subtle. For scDEAL, which showed competitive performance across several benchmark settings, label-substitution and ablation analyses further indicated that its performance was jointly influenced by training-label definition and architectural design. Application to an independent PDAC organoid dataset showed that scDEAL predictions were associated with treatment-related transcriptional state changes and biological programs. In summary, our study systematically characterizes the performance and limitations of current single-cell drug response prediction approaches across diverse evaluation settings. These results highlight the influence of dataset characteristics, class imbalance, training design, and the strength of resistance-associated signals on model performance, providing a reference for the evaluation and further development of single-cell drug response prediction methods.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.04.10.717709",
+      "preprint_doi": "10.64898/2026.04.10.717709",
+      "published_doi": "NA",
+      "version": "3",
+      "category": "bioinformatics",
+      "authors": "Shen, L.; Sun, X.; Zheng, S.; Hashmi, A.; Eriksson, J.; Mustonen, H.; Seppänen, H.; Shen, B.; Li, M.; Vähä-Koskela, M.; Tang, J.",
+      "corresponding_author": "Jing Tang",
+      "corresponding_institution": "University of Helsinki"
+    },
+    {
+      "title": "Benchmarking normalisation methods for differential binding analysis in CUT&RUN",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.05.24.727463",
+      "summary": "CUT&RUN (Cleavage Under Targets and Release Using Nuclease) is an increasingly popular method for profiling protein interactions (transcription factors, histone modifications, etc) with DNA across the whole genome. When performing differential binding analysis of CUT&RUN data to identify genomic regions where interaction profiles vary between conditions, data normalisation is essential for accurate biological interpretations. Despite this, there are no clear guidelines on the optimal normalisation method for CUT&RUN datasets. Here, we examine five normalisation approaches (spike-in, library size, background, reads-in-peak and greenlist) and highlight that different methods can result in widely discrepant interpretations of the data. We test these normalisation methods by simulating a variety of plausible differential binding scenarios as well as in-house generated datasets. We determined normalisation by data driven methods to be the most robust. Importantly, we find spike-in normalisation to have variable performance across experiments likely due to additional stochastic variations in wet-lab procedures and suggest that their use should be justified with orthogonal assays. Our findings inform the use of normalisation methods for CUT&RUN data and should thus facilitate reproducible and robust analysis.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.05.24.727463",
+      "preprint_doi": "10.64898/2026.05.24.727463",
+      "published_doi": "NA",
+      "version": "2",
+      "category": "bioinformatics",
+      "authors": "Ambani, K.; Ahn, A.; Watt, A.; Blyth, C.; Russ, B.; Taylor, M.; Goel, S.; Oshlack, A.",
+      "corresponding_author": "Alicia Oshlack",
+      "corresponding_institution": ""
+    },
+    {
+      "title": "msmu: a computational framework for provenance-aware mass spectrometry-based proteomics analysis",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.01.07.698308",
+      "summary": "Heterogeneous data formats and analysis pipelines in computational proteomics hinder reproducibility, interoperability, and reuse of processed data. We present msmu, an open-source Python package that implements a modular, provenance-aware pipeline for post-search processing. Within a single MuData object, msmu links representations across peptide-spectrum match, peptide, and protein levels to machine-actionable provenance that records operations, parameter choices, software versions, and the execution environment. The object's provenance log directly enables workflow replay with content-hash verification, without separately maintained scripts or provenance records. We demonstrate cross-platform reproducibility between macOS and Debian; replay reproduces the original protein inference map exactly (Jaccard indices = 1), with protein q-values and intensities agreeing to machine precision (root-mean-square deviation [&le;] 2.0X10-17; maximum absolute difference [&le;] 1.8X10-15). Furthermore, the same data structure supports seamless integration of proteomics with other MuData-compatible modalities. By coupling proteomics data with verifiable provenance in a single object, msmu advances FAIR-aligned reuse and multimodal interoperability.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.01.07.698308",
+      "preprint_doi": "10.64898/2026.01.07.698308",
+      "published_doi": "NA",
+      "version": "2",
+      "category": "bioinformatics",
+      "authors": "Choi, H.-W.; Lee, B.; Kang, U.-B.; Huh, S.",
+      "corresponding_author": "Sunghyun Huh",
+      "corresponding_institution": "Bertis Inc."
+    },
+    {
+      "title": "Benchmarking Molecular Methods of Protein Engineering and Surveying Protein Search Space to Bolster Artificial Intelligence-Based Designs",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759664",
+      "summary": "Proteins are complex macromolecules that drive functionality in cells across all life on Earth. Protein engineering and AI-based designs facilitate exploration of the vast search space. Herein, we explore and compare mutagenic methodologies in combination with fast and efficient phenotypic evaluation of a pink fluorophore (Magenta) to map protein search space and inform AI-based designer algorithms. We binned mutated variants as neutral, deleterious, or catastrophic based on the observed phenotype and fitness measurement (relative fluorescent units, RFUs). Importantly, we found that for a given fluorophore, about 80% of random mutations were deleterious for the artificially selected phenotype resulting in decreased fitness, 20% were neutral mutations, and 0.8% enhanced the artificially selected phenotype. Using error prone PCR (epPCR), we were able to identify four candidates in the first round and one candidate in the second round of epPCR for enhanced fluorescence and in toto enhanced RFUs by 35% after two rounds of epPCR. We compared these rates of true positive enhanced RFU generated sequences against a state of the art evolutionary algorithm approach and found that biological computation beats it in its current state. We conclude with suggestions for key improvements to enhance algorithm performance in the future. Taken together, we demonstrated that iterative rounds of variant prediction improved our algorithm, and our study can serve as a reference point for future AI driven modeling studies in red fluorescent protein engineering.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.10.16.759664",
+      "preprint_doi": "10.64898/2026.10.16.759664",
+      "published_doi": "NA",
+      "version": "1",
+      "category": "bioinformatics",
+      "authors": "Ramamoorthy, S.; Browning, R.; Brandt, J.; Tisdale, K.; Schultz, A.; Dalinger, M. V. L.; Hengartner, N.; Tauritz, D. R.; Beckmann, J. F.",
+      "corresponding_author": "John Frederick Beckmann",
+      "corresponding_institution": "Auburn University"
+    },
+    {
+      "title": "SpacePath enables pathway and molecular-family analysis beyond annotation ambiguity in spatial metabolomics and lipidomics",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.10.16.759546",
+      "summary": "Mass spectrometry imaging (MSI) maps metabolites and lipids in tissue with spatial resolution, but molecular identity remains partly resolved: single ions match multiple candidate compounds, and most detected metabolites and lipids fall outside canonical biochemical pathways. We developed SpacePath, a computational framework that retains ion-to-compound ambiguity, scores canonical pathways across tissue locations, and groups assignments that were unmapped to pathways into de novo molecular families by chemical similarity. Pathway mappings covered on average only 1% of molecular assignments, whereas the combined SpacePath representation covered 24% of pooled assignments. Benchmarking on four public spatial lipidomics datasets (healthy mouse brain, cerebellum, a demyelination model, and human bladder cancer) recovered previously reported spatial patterns. In newly acquired glioblastoma xenograft datasets, SpacePath identified lipid programs specific to tumor and surrounding brain, and SpiderMass-MS/MS independently confirmed four tumor-associated features from a de novo family, refining the initial MS1 assignments. SpacePath extends the spatial interpretation of MSI data beyond canonical pathways while preserving annotation uncertainty.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.10.16.759546",
+      "preprint_doi": "10.64898/2026.10.16.759546",
+      "published_doi": "NA",
+      "version": "1",
+      "category": "bioinformatics",
+      "authors": "Galvis, J.; Moreau, M.; Lillo, S.; Bomont, D.; Ledoux, L.; Zirem, Y.; Salzet, M.; Fournier, I.; Desbenoit, N.; Daubon, T.; Nikolski, M.",
+      "corresponding_author": "Macha Nikolski",
+      "corresponding_institution": "University of Bordeaux, CNRS, IBGC UMR 5095, 1 rue Camille Saint Saens, Bordeaux, 33077, France.  University of Bordeaux, Bordeaux Bioinformatics Center CBiB, 1"
+    },
+    {
+      "title": "Re-evaluating the benefit of training scale in cell foundation models",
+      "source": "bioRxiv",
+      "source_id": "biorxiv",
+      "source_type": "api",
+      "content_type": "publication",
+      "evidence_stage": "preprint",
+      "published": "2026-10-22T00:00:00+00:00",
+      "url": "https://www.biorxiv.org/content/10.64898/2026.06.04.730272",
+      "summary": "Single-cell foundation models are self-supervised neural networks pretrained on millions of cellular transcriptomes to learn representations that transfer across biological domains and downstream tasks. Despite increasing investments in model and pretraining data scale, it remains unclear how to assess whether these investments improve the quality of learned biological representations. Recent evidence from standard finetuning benchmarks suggests that cell foundation models reach performance saturation after exposure to only a fraction of the available pretraining data. We hypothesised that conventional finetuning may obscure improvements in underlying representation quality and the biological information they encoded during pretraining. To address this, we tested second- and first-generation cell foundation models across corpus sizes using standard finetuning and extended it with a comprehensive fully frozen evaluation. We found that the training-data scaling relationship becomes apparent under fully frozen finetuning, particularly for second-generation models. Zero-shot analyses similarly recovered dependence on pretraining scale. Our findings reveal a fundamental limitation of conventional foundation model evaluation and establish the importance of frozen-representation benchmarking for assessing representation quality and guiding pretraining-scale decisions.",
+      "topics": [
+        "ai_reliability"
+      ],
+      "company": null,
+      "score": null,
+      "doi": "10.64898/2026.06.04.730272",
+      "preprint_doi": "10.64898/2026.06.04.730272",
+      "published_doi": "NA",
+      "version": "3",
+      "category": "bioinformatics",
+      "authors": "Shakeel, M. H.; Shen, M.; Mangiola, S.",
+      "corresponding_author": "Muhammad Haroon Shakeel",
+      "corresponding_institution": "Adelaide University"
+    },
+    {
       "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
       "source": "Nature Biotechnology",
       "source_id": "nature_biotech",
@@ -347,7 +605,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-21T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03348-1",
-      "summary": "<p>Nature Biotechnology, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03348-1\">doi:10.1038/s41587-026-03348-1</a></p>DynaVelo integrates single-cell omics data to infer cell state dynamics and regulatory interactions.",
+      "summary": "DynaVelo integrates single-cell omics data to infer cell state dynamics and regulatory interactions.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -364,7 +622,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-21T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03327-6",
-      "summary": "<p>Nature Biotechnology, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03327-6\">doi:10.1038/s41587-026-03327-6</a></p>Recordanelles continuously and unbiasedly record the transcriptome throughout time in living mammalian cells.",
+      "summary": "Recordanelles continuously and unbiasedly record the transcriptome throughout time in living mammalian cells.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -381,7 +639,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-21T05:00:00+00:00",
       "url": "https://www.nature.com/articles/d41573-026-00166-7",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00166-7\">doi:10.1038/d41573-026-00166-7</a></p>FDA approves hepatitis B antisense drug",
+      "summary": "FDA approves hepatitis B antisense drug",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -1313,7 +1571,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-20T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03360-5",
-      "summary": "<p>Nature Biotechnology, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03360-5\">doi:10.1038/s41587-026-03360-5</a></p>The noncanonical amino acid O-methyl-L-tyrosine is used as a tool to control microbial protein synthesis across diverse plants.",
+      "summary": "The noncanonical amino acid O-methyl-L-tyrosine is used as a tool to control microbial protein synthesis across diverse plants.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -1330,7 +1588,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-20T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03359-y",
-      "summary": "<p>Nature Biotechnology, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03359-y\">doi:10.1038/s41587-026-03359-y</a></p>Human Argonaute is repurposed for RNA editing.",
+      "summary": "Human Argonaute is repurposed for RNA editing.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -1942,7 +2200,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-19T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03345-4",
-      "summary": "<p>Nature Biotechnology, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03345-4\">doi:10.1038/s41587-026-03345-4</a></p>Each year, Nature Biotechnology highlights companies that received sizeable early-stage funding in the previous year. Bioptimus is developing multimodal and multiscale AI pathology models for biomarker and drug treatment prediction.",
+      "summary": "Each year, Nature Biotechnology highlights companies that received sizeable early-stage funding in the previous year. Bioptimus is developing multimodal and multiscale AI pathology models for biomarker and drug treatment prediction.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -2851,7 +3109,7 @@
       "evidence_stage": "preprint",
       "published": "2026-10-19T00:00:00+00:00",
       "url": "https://www.biorxiv.org/content/10.64898/2026.10.19.757941",
-      "summary": "AlphaFold 3 (AF3) predicts protein ligand complexes, but the utility of its confidence scores for drug prioritization remains unclear. We benchmarked AF3 interaction scores against BANDOCK+, an experimentally informed approach, using approved drugs and human protein libraries. AF3 ipTM achieved similar aggregate disease ranking performance to BANDOCK+, with differences among individual indications. These results support the evaluation of AF3 interaction confidence as a source of information for proteome scale drug prioritization.",
+      "summary": "AlphaFold 3 (AF3) predicts protein ligand complexes, but the utility of its confidence scores for drug discovery remains unclear. We benchmarked AF3 interaction scores against BANDOCK+, an experimentally informed approach, using approved drugs and human protein libraries. AF3 ipTM achieved slightly higher observed aggregate disease ranking scores in a matched 1,103 protein comparison, with performance varying among individual indications. BANDOCK+ enabled substantially broader protein coverage using a computationally less demanding approach, including a 20,158 protein reference library. These findings highlight the potential of AF3 confidence scores for computational drug discovery and the tradeoffs between predictive performance and scalability.",
       "topics": [
         "ai_reliability"
       ],
@@ -3357,7 +3615,7 @@
       "evidence_stage": "preprint",
       "published": "2026-10-18T00:00:00+00:00",
       "url": "https://www.biorxiv.org/content/10.64898/2026.06.04.730272",
-      "summary": "Single-cell foundation models are self-supervised neural networks pretrained on millions of cellular transcriptomes to learn representations that transfer across biological domains and downstream tasks. Recent benchmarks have questioned the training data scaling law for these models, showing early finetuning performance saturation on a fraction of available pretraining data. However, whether this trend holds for larger second-generation foundation models, and whether it reflects genuine saturation of foundation representations remains unclear. To resolve these aspects, we tested the performance of second- and first-generation cell foundation models across corpus sizes using the standard finetuning approach, and extended it with a comprehensive fully frozen evaluation. We revealed that the training-data scaling relationship becomes apparent under fully frozen finetuning, particularly for second-generation models. Zero-shot analyses similarly recovered dependence on pretraining scale. We conclude that finetuning performance saturation does not imply biological representations saturation, and that a shift in standards of cell foundation model evaluation is needed, complementing standard finetuning with fully frozen benchmarking to capture the quality of the foundation representations.",
+      "summary": "Single-cell foundation models are self-supervised neural networks pretrained on millions of cellular transcriptomes to learn representations that transfer across biological domains and downstream tasks. Despite increasing investments in model and pretraining data scale, it remains unclear how to assess whether these investments improve the quality of learned biological representations. Recent evidence from standard finetuning benchmarks suggests that cell foundation models reach performance saturation after exposure to only a fraction of the available pretraining data. We hypothesised that conventional finetuning may obscure improvements in underlying representation quality and the biological information they encoded during pretraining. To address this, we tested second- and first-generation cell foundation models across corpus sizes using standard finetuning and extended it with a comprehensive fully frozen evaluation. We found that the training-data scaling relationship becomes apparent under fully frozen finetuning, particularly for second-generation models. Zero-shot analyses similarly recovered dependence on pretraining scale. Our findings reveal a fundamental limitation of conventional foundation model evaluation and establish the importance of frozen-representation benchmarking for assessing representation quality and guiding pretraining-scale decisions.",
       "topics": [
         "ai_reliability"
       ],
@@ -3646,7 +3904,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-16T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41573-026-01548-7",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/s41573-026-01548-7\">doi:10.1038/s41573-026-01548-7</a></p>Base editing, a gene editing technology capable of installing point mutations with high efficiency and precision, was first reported a decade ago. This Review examines the evolution of base editors and their road to clinical translation, highlighting key advances, ongoing challenges and the current clinical trial landscape.",
+      "summary": "Base editing, a gene editing technology capable of installing point mutations with high efficiency and precision, was first reported a decade ago. This Review examines the evolution of base editors and their road to clinical translation, highlighting key advances, ongoing challenges and the current clinical trial landscape.",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -4503,7 +4761,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-15T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41587-026-03332-9",
-      "summary": "<p>Nature Biotechnology, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03332-9\">doi:10.1038/s41587-026-03332-9</a></p>HitSV models the interaction between genomic repetitiveness and signature intensity to improve structural variant detection.",
+      "summary": "HitSV models the interaction between genomic repetitiveness and signature intensity to improve structural variant detection.",
       "topics": [
         "ai_drug_discovery",
         "pharma_rd"
@@ -4520,7 +4778,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-15T05:00:00+00:00",
       "url": "https://www.nature.com/articles/d41573-026-00165-8",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00165-8\">doi:10.1038/d41573-026-00165-8</a></p>One year of Commissioner’s National Priority Vouchers",
+      "summary": "One year of Commissioner’s National Priority Vouchers",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -5076,7 +5334,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-14T05:00:00+00:00",
       "url": "https://www.nature.com/articles/d41573-026-00164-9",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00164-9\">doi:10.1038/d41573-026-00164-9</a></p>FDA new drug approvals in Q3 2026",
+      "summary": "FDA new drug approvals in Q3 2026",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -5093,7 +5351,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-12T05:00:00+00:00",
       "url": "https://www.nature.com/articles/d41573-026-00137-y",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00137-y\">doi:10.1038/d41573-026-00137-y</a></p>Charlotte Deane, co-leader of the OpenBind initiative, discusses the need for more protein–small molecule binding data.",
+      "summary": "Charlotte Deane, co-leader of the OpenBind initiative, discusses the need for more protein–small molecule binding data.",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -5110,7 +5368,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-07T05:00:00+00:00",
       "url": "https://www.nature.com/articles/d41573-026-00163-w",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00163-w\">doi:10.1038/d41573-026-00163-w</a></p>Molecular glue targets ALK resistance",
+      "summary": "Molecular glue targets ALK resistance",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -5127,7 +5385,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-07T05:00:00+00:00",
       "url": "https://www.nature.com/articles/s41573-026-01534-z",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41573-026-01534-z\">doi:10.1038/s41573-026-01534-z</a></p>Immune cell engagers are emerging as a strategy for deep B cell depletion in autoimmune diseases. This Review examines their mechanisms, clinical development and next-generation designs, including T cell, natural killer cell and γδ T cell-engaging formats, and considers lessons from haematological malignancies to improve efficacy, safety and durability of immune modulation.",
+      "summary": "Immune cell engagers are emerging as a strategy for deep B cell depletion in autoimmune diseases. This Review examines their mechanisms, clinical development and next-generation designs, including T cell, natural killer cell and γδ T cell-engaging formats, and considers lessons from haematological malignancies to improve efficacy, safety and durability of immune modulation.",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -5161,7 +5419,7 @@
       "evidence_stage": "peer_reviewed",
       "published": "2026-10-05T05:00:00+00:00",
       "url": "https://www.nature.com/articles/d41573-026-00160-z",
-      "summary": "<p>Nature Reviews Drug Discovery, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00160-z\">doi:10.1038/d41573-026-00160-z</a></p>Gene therapy for rare lysosomal storage disorder nabs FDA approval",
+      "summary": "Gene therapy for rare lysosomal storage disorder nabs FDA approval",
       "topics": [
         "drug_discovery",
         "pharma_rd"
@@ -5366,23 +5624,6 @@
       "published": "2026-09-04T00:48:27+00:00",
       "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
       "summary": "The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients.",
-      "topics": [
-        "regulatory",
-        "pharma_rd"
-      ],
-      "company": null,
-      "score": null
-    },
-    {
-      "title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
-      "source": "FDA Press Announcements",
-      "source_id": "fda_press",
-      "source_type": "rss",
-      "content_type": "regulatory",
-      "evidence_stage": null,
-      "published": "2026-09-03T20:01:02+00:00",
-      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
-      "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Capstar (nitenpyram) tablets and revised the EUA for Nitenpyram Tablets, the generic version of Capstar",
       "topics": [
         "regulatory",
         "pharma_rd"
