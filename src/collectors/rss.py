@@ -1,6 +1,6 @@
 from datetime import datetime, timezone
 from time import mktime
-from typing import Any
+from typing import Any, Optional
 import re
 
 import feedparser
@@ -15,7 +15,7 @@ HEADERS = {
 }
 
 
-def _parse_date(entry: Any) -> str | None:
+def _parse_date(entry: Any) -> Optional[str]:
     """Return publication date as an ISO-8601 UTC timestamp."""
 
     for field in ("published_parsed", "updated_parsed"):
