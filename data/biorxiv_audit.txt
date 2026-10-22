@@ -1,0 +1,1213 @@
+BIOXRIV MATCHES: 197
+
+TOPICS
+ 167  ai_reliability
+  22  scientific_informatics
+  13  ai_drug_discovery
+   5  lab_automation
+
+CATEGORIES
+  96  bioinformatics
+  28  neuroscience
+   9  genomics
+   8  bioengineering
+   7  biochemistry
+   7  cancer biology
+   6  microbiology
+   6  systems biology
+   4  biophysics
+   4  genetics
+   3  pharmacology and toxicology
+   3  ecology
+   2  molecular biology
+   2  developmental biology
+   2  plant biology
+   2  synthetic biology
+   2  immunology
+   2  cell biology
+   2  pathology
+   2  evolutionary biology
+
+RECORDS
+
+[001] LiverHomo: An Integrated and Interactive Human Liver Single-Cell Atlas with Protein Interaction and Cell-Cell Communication Networks
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.20.755227
+Abstract: LiverHomo is an integrated cell atlas developed from publicly available human liver single-cell RNA sequencing (scRNA-seq) datasets spanning healthy and diverse liver disease contexts. While several single-cell resources for the human liver are available, LiverHomo provides broad disease coverage and extends transcriptomic exploration through the integration of protein-protein interaction (PPI) networks and cell-cell interactions. LiverHomo provides an interactive web portal (https://liverhomo.o
+
+[002] CDSeq2 integrates individual-level cell-type expression deconvolution with recoverability-guided prioritization
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.09.14.751599
+Abstract: CDSeq2 combines reference-informed Bayesian deconvolution with gene-type prioritization for individual-level expression analysis from bulk RNA sequencing. Brain benchmarks showed accurate RNA-fraction estimates and expression recovery comparable to BayesPrism in excitatory neurons. Prioritization enriched accurately recovered profiles and supported continuous-phenotype and cell-type-specific expression quantitative trait locus (eQTL) analyses, with the strongest application evidence in excitator
+
+[003] Magnetic molecular nanorulers enable combinatorial biosensing and determine distances at the molecular level
+Category: biophysics
+Topics: lab_automation
+DOI: 10.64898/2026.10.19.760221
+Abstract: Molecular nanorulers are essential tools for mapping intramolecular distances and studying nucleic acid and protein interactions. Here, we present MARs (MAgnetic molecular nanoRulers), a fundamentally new class of nanorulers based on measuring the magnetization dynamics of rationally engineered and ultra-responsive colloidal magnetic nanoparticles with magnetic particle spectrometry (MPS). By tuning the grafting density of DNA receptors on MARs, we reveal surface molecular crowding as a simple, 
+
+[004] Development of CYP8B1-specific inhibitors for metabolic diseases
+Category: pharmacology and toxicology
+Topics: lab_automation
+DOI: 10.64898/2026.10.20.760253
+Abstract: Changes in bile acids (BAs) balance lead to various metabolic diseases, yet current treatment options targeting these changes remain severely limited. CYP8B1 (cytochrome P450, family 8, subfamily B, polypeptide 1) is a liver-exclusive enzyme that controls the synthesis of 12-hydroxylated (12-OH) BAs. Inhibiting CYP8B1 is an attractive therapeutic strategy for attenuating 12-OH BA levels, remodeling the gut microbiota and thereby ameliorating metabolic diseases. CYP8B1-specific inhibitors are cur
+
+[005] Task-specific topographic organization of neural activity in the primate lateral prefrontal cortex
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.1101/2024.05.10.591729
+Abstract: Neurons in the primate lateral prefrontal cortex (LPFC) flexibly adapt their activity to support diverse cognitive demands. Whether this flexibility is accompanied by changes in the spatial organization of neural population activity remains unclear. Here, we characterized the functional topography of LPFC neural activity in awake, behaving macaques performing three distinct cognitive tasks. Using chronically implanted multi-electrode arrays and topographic similarity analysis (TSA), we found tha
+
+[006] Comparative Single-Cell Profiling of CRISPR Knockout and Interference Defines Modality-Specific Strengths in Functional Genomics
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.08.26.747303
+Abstract: Pooled CRISPR screens coupled with single-cell RNA sequencing enable high-throughput functional interrogation of gene regulatory networks, yet systematic comparisons of CRISPR knockout (CRISPRko) and CRISPR interference (CRISPRi) remain limited. We established a single-cell CRISPRko workflow and benchmarked it against CRISPRi using 87 sgRNAs targeting 29 unfolded protein response genes. CRISPRko generated transcriptional phenotypes highly concordant with CRISPRi, and induced comparable pathway-l
+
+[007] Signature Recontextualization: Mapping perturbational signatures across biological contexts
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.08.14.744937
+Abstract: Perturbational transcriptomics is a powerful tool for understanding gene function and drug effects, yet predicting how perturbations manifest across different biological contexts remains a central challenge, limiting translation from model systems to clinically relevant tissues. Despite growing interest in this problem, benchmarking efforts have been hindered by inconsistent evaluation tasks, heterogeneous metrics, and limited assessment across perturbation types and biological systems. Here, we
+
+[008] Validation of a Commercially Available Non-Woven Fabric Electrode for Mouse Electroretinography
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.07.757191
+Abstract: Purpose: To evaluate the performance and usability of a commercially available nonwoven fabric electrode as a cost-effective and user-friendly alternative to standard corneal contact lens electrodes for recording murine electroretinography (ERG). Methods: Full-field ERGs were recorded in the same individual mice using both the commercially available non-woven fabric electrode and a conventional contact lens electrode in a paired design. Key parameters evaluated included (1) baseline noise stabil
+
+[009] The ModelSEED Biochemistry Database, 2026 update: grading multi-source thermodynamics
+Category: biochemistry
+Topics: ai_drug_discovery
+DOI: 10.64898/2026.09.15.751859
+Abstract: The ModelSEED Biochemistry Database (https://modelseed.org/biochem) supplies foundational mass- and charge-balanced reaction networks for metabolic reconstructions. Here we present an update on the biochemistry where the database has been expanded to [~] 46,000 compounds, and [~] 56,000 reactions, featuring [~] 37,000 metabolic structures. We have expanded our approach for handling thermodynamic data, enabling multiple sources of data to be derived, integrated, and presented to the wider researc
+
+[010] A moving target: non-stationary selection governs unsupervised prediction of viral fitness
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.09.17.752359
+Abstract: Anticipating how mutations change viral fitness is central to genomic surveillance and vaccine design. However, the phenotypic data behind the most accurate supervised variant-effect predictors is unavailable for most emerging pathogens. It is therefore unclear how a label-free, unsupervised approach would perform using only sequences, their evolutionary history, and their protein structure. To address this outstanding question, we assemble a modular, fully unsupervised pipeline that estimates k
+
+[011] CCTP-Atlas: Compartment-Resolved Ciliary Transcriptional Dysregulation in Tetralogy of Fallot, A Six-Dataset Integrative Meta-Analysis
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758603
+Abstract: Background. Primary cilia coordinate Hedgehog-dependent outflow tract morphogenesis. Concurrent human genetics implicates ciliary loss-of-function in nonsyndromic tetralogy of Fallot (TOF) risk, yet compartment-resolved ciliary transcriptional programmes in public TOF snRNA-seq remain unmapped at module resolution. Methods. We curated a Cardiac Ciliary Transcriptomic Panel (CCTP; 1,611 genes; four modules) and executed a ten-phase integrative pipeline on six public sc/snRNA-seq resources. Differ
+
+[012] Lineage-specific X chromosome inactivation escape and skew underlie sex-biased immune gene dosage and deleterious variant exposure
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.08.26.739472
+Abstract: The X chromosome carries an unusually high density of immune genes and is a major contributor to sex differences in immune function and autoimmune diseases. In females, X-chromosome inactivation (XCI) has two major functional consequences: it shapes X-linked gene dosage through XCI escape and determines the cellular exposure of heterozygous X-linked variants through XCI skew. Yet because XCI creates a mosaic of cells expressing different parental X chromosomes, these properties have remained lar
+
+[013] Learning Protein-Protein Interaction Interfaces from Multimodal Representations
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.05.29.728739
+Abstract: Background: Protein-protein interactions govern essential cellular processes, making the identification of interface residues critical for protein engineering and molecular design. Although complex deep learning algorithms like AlphaFold3 generate full atom resolution assemblies, they are not optimized for residue-level interface identification. Existing methods face inherent limitations: sequence-based models lack explicit 3D context, while structure-based approaches can overlook evolutionary s
+
+[014] Thermodynamic Quality Control Reshapes Spatially Resolved Metabolic Flux Predictions in Prostate Cancer
+Category: cancer biology
+Topics: ai_reliability
+DOI: 10.64898/2026.06.25.734531
+Abstract: Spatial transcriptomics enables region-resolved investigation of tumor metabolism, yet translating gene expression into reliable metabolic flux predictions remains challenging because genome-scale models can admit thermodynamically infeasible cycles (TICs). Here, we integrated spatial transcriptomic data from twelve annotated regions of a single prostate tumor, spanning normal, inflamed, and Gleason 3+3 and 3+4 tissues, with Human-GEM using an E-Flux framework incorporating defined nutrient cons
+
+[015] Function-oriented microglial transcriptional scores in Alz-heimer's disease: resolving terminal functions beyond activa-tion states
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759278
+Abstract: Alzheimer's disease (AD) staging based on amyloid-{beta}, tau, and neurodegeneration does not capture heterogeneous microglial functions. Existing transcriptomic scores indicate microglial activation or state similarity but do not resolve post-activation functions and are not directly comparable across scales. Herein, we develop a function-oriented framework comprising seven harmful-and seven adaptive-associated gene modules, selected from predefined mechanisms and direct functional evidence. Us
+
+[016] A genomic foundation model for interpreting human genetic diversity
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.760276
+Abstract: Interpreting human genomes requires models that recognize shared biological functions while accounting for variation underlying traits, disease susceptibility and adaptation. Here we present hEVO, a genomic foundation model trained on 4.784 billion distinct haplotype sequences reconstructed from whole genome sequencing (WGS) data for 63,809 individuals selected from 550,237 samples across eight cohorts. Pretraining integrates shared sequence features and naturally occurring allelic differences w
+
+[017] DCAF: Unifying Data Validity, Evaluation Validity and Predictive Modeling for Single-cell Perturbation Simulation
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758713
+Abstract: Single-cell perturbation profiling is limited by cost and throughput, while computational methods remain constrained by inconsistent evaluation and underperformance relative to simple baselines. Here we present DCAF, a unified framework for single-cell perturbation simulation that that jointly addresses data validity, evaluation validity and predictive modeling. Among its three components, DCAF-data addresses the single-measurement limitation by reconstructing pre- and post-perturbation status u
+
+[018] CompleteBin: A transformer-based framework unlocks microbial dark matter through improved short contig binning
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.1101/2025.04.20.649691
+Abstract: Metagenomic binning is crucial for reconstructing microbial genomes from metagenomes. However, existing tools perform poorly in complex communities, where short contigs from low-abundance organisms predominate. This limits the deciphering of community composition and the functions it encodes. Here we present CompleteBin, a Transformer-based framework that bins contigs as short as 850 bp by combining context-based sequence tokenization, taxonomic embeddings from a Transformer pre-trained on refer
+
+[019] High-fidelity bispecific protease KRysin for deeper plasma proteomics and phosphoproteomics
+Category: biochemistry
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760339
+Abstract: Bottom-up proteomics relies on efficient and reproducible proteolytic digestion. Yet trypsin, the most widely used protease, frequently misses cleavages, particularly near prolines, acidic and phosphorylated residues. Incomplete digestion inflates search space, dilutes peptide signal, and limits depth and reproducibility, especially in challenging matrices such as plasma and phosphoproteomics. Here we present KRysin, a recombinant bispecific protease that cleaves C-terminal to lysine and arginin
+
+[020] Direct RNA sequencing of beet yellows virus replicative intermediates reveals diverse deletion containing RNAs and break point patterns
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.760187
+Abstract: Defective RNAs (dRNAs) are naturally occurring recombinant RNAs generated during replication of many positive-sense RNA viruses, yet their molecular architectures and the genomic features governing breakpoint selection remain incompletely understood. Here, we combine double-stranded RNA (dsRNA) enrichment, enzymatic polyadenylation and nanopore direct RNA sequencing (DRS) to resolve dRNAs of beet yellows virus (BYV), a large (~15.5 kb), single-stranded positive-sense (+ssRNA) non-polyadenylated 
+
+[021] Phenotype-cloud reorganization shapes cancer progression and therapeutic adaptation
+Category: cancer biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760393
+Abstract: Tumours comprise heterogeneous phenotypic states, but how these states are reorganized during malignant progression and therapeutic adaptation remains poorly understood. Here we integrate spatial transcriptomic, single-cell, spatial proteomic, bulk-transcriptomic and perturbational data to examine breast cancer progression as a tissue-embedded phenotype cloud. A graph-neural-network-derived progression coordinate combined with Field--Flow--Front analysis revealed reproducible transitions between
+
+[022] AutoMod: A Software Tool for High-Accuracy Design of Curved DNA Origami Nanostructures
+Category: bioengineering
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760446
+Abstract: In the design of DNA origami (DO) nanostructures, structural information, such as equilibrium conformation, is encoded by nucleotide sequences. The problem of finding the correct sequences for a certain target conformation is a demanding computational task, commonly addressed with the help of computer-aided design software. However, strongly curved structures where DNA helices span non-closed routes have remained extremely challenging to realize. Here, we present AutoMod, a software tool that at
+
+[023] An immune world model with multi-agent orchestration for peptide vaccines
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.760096
+Abstract: Peptide-vaccine design requires a connection between vaccine-induced priming and recognition of the antigen naturally displayed by a tumor. We present an immune world model that preserves this connection through separate vaccine and tumor branches, endpoint-specific evidence and multi-agent orchestration. Native-recognition constraints held an altered peptide despite its higher presentation score, and targeted perturbations removed antigen-dependent benefit when required tumor-recognition condit
+
+[024] A clinically annotated proteomic and histological resource of 1,000 colorectal cancers
+Category: cancer biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.757714
+Abstract: Colorectal cancer (CRC) is heterogeneous, yet current classifications capture this heterogeneity only in part. Here we present a multimodal resource of 1,000 treatment-naive CRC cases, the largest proteomically profiled CRC cohort to date, integrating deep proteomics, targeted genomics, whole-slide histopathology and clinical follow-up. From the proteome we derive six subgroups that recapitulate the MSI and mesenchymal classes, resolve the chromosomally unstable class into three functional subgr
+
+[025] BiNVaST: niche boundary-preserving and synthetic data-guided variational autoencoders for concordant inference across high-resolution spatial transcriptomic platforms
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759369
+Abstract: High-resolution spatial transcriptomics (ST) enables subcellular spatially resolved transcript profiling but remains difficult to annotate in complex tissues because of gene coverage and super sparseness in expression. These challenges are amplified in cancer research, where neoplastic cell states and rare immune cells in tumor microenvironment are often poorly captured by generic references and/or cell typing tools exclusively built on molecular profile. Here, we present BiNVaST, a niche bounda
+
+[026] Combining RNA-seq and proteomics boosts sensitivity to detect differentially expressed genes by rpMeta
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.758995
+Abstract: Differential gene expression analysis is a powerful technique to characterize biological systems. Differentially expressed genes (DEGs) are commonly identified by analysis of RNA sequencing datasets or mass spectrometry proteomics datasets. Increasingly, multi-omic studies include both RNA sequencing and proteomics from the same biospecimens. However, the common multi-omic DEG analysis practice involves separate DEG analysis by RNA and by protein with limited comparison by fold change correlatio
+
+[027] GEO-BERT: A Retrieval augmented LLM Framework for Intelligent Dataset Retrieval from the Gene Expression Omnibus
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.15.759430
+Abstract: The Gene Expression Omnibus (GEO) is a commonly used data repository of high throughput gene expression and other functional genomics data. This platform is globally used by researchers for submitting experimental datasets, accessing these datasets for hypothesis validation, reusing them in data-driven research, generating ideas for new research directions. Despite global usage, searching and identifying relevant and usable datasets in GEO remains challenging with an underlying keyword based sea
+
+[028] LoCoFlow: Local-Context Flow Matching for Single-Cell Dynamics and Fate Inference
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.758594
+Abstract: Single-cell sequencing profiles cellular states at discrete time points, providing population-level snapshots from which developmental and disease-associated trajectories can be reconstructed. Existing optimal-transport and flow-matching approaches typically infer temporal couplings at the level of individual cells, with limited representation of the local manifold geometry of cell-state space and the uncertainty inherent in lineage diversification. We introduce LoCoFlow, a flow-matching framewo
+
+[029] A brain signature of vaping cue-elicited craving
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759290
+Abstract: E-cigarette use among young adults has grown rapidly, raising concerns about nicotine dependence and motivating a better understanding of the neurobiology of vaping. We used a cue-induced craving fMRI paradigm to develop and evaluate a brain signature of vaping cue-elicited craving, and to compare it with smoking- and food-craving signatures developed using the same analytic pipeline. Using LASSO-PCR with leave-one-subject-out cross-validation, we identified a distributed pattern of brain activi
+
+[030] Temporal instability weakens entorhinal grid-like coding in older adults
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759328
+Abstract: Entorhinal grid cell representations are thought to support spatial navigation and episodic memory, functions that decline with age. Their putative fMRI correlate, the hexadirectional signal, varies markedly among older adults, but the source of this variability is unknown. Using virtual navigation and fMRI in 85 older adults, we tested whether signal strength was related to the stability of hexadirectional signals. Hexadirectional orientation stability, the cross-run reproducibility of directio
+
+[031] Making the Impossible Possible: Uniting TMT and DIA for Scalable Low-Input-Proteomics
+Category: biochemistry
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760427
+Abstract: Isobaric multiplexing using tandem mass tags (TMT) and data-independent acquisition (DIA) are two powerful techniques in quantitative proteomics, each offering distinct advantages. Combining these strategies provides synergistic benefits for low-input applications such as single-cell proteomics (SCP). However, integrating these strategies has remained challenging due to co-isolation interference and increased data complexity. Here, we present a systematic, identification-linked evaluation of a h
+
+[032] G-ALN: a GPU-accelerated BWA-aln algorithm for palaeogenomics
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759956
+Abstract: Abstract Summary: The most commonly used method to achieve optimal mapping for short and damaged ancient DNA (aDNA) reads is the BWA-aln algorithm with seeding disabled. However, this CPU-based algorithm is computationally demanding, as the aligner must tolerate mismatches and indels across the entire read. To improve alignment speed, we present G-ALN: a GPU implementation of the BWA-aln and indexing algorithms. G-ALN first searches all reads on GPU cores, with reads that need a long search bein
+
+[033] TransPepMS: A Tool to Verify Peptides Absent from Reference Proteomes
+Category: biochemistry
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760571
+Abstract: Cells generate peptides absent from reference proteomes, including products of reverse proteolysis and gene fusions. These are an increasingly pursued class of targets in autoimmune disease, cancer vaccines and T-cell therapies. The sequence is itself the discovery, yet a convincing spectral match does not establish it, because an ordinary genome-encoded peptide of the same mass can explain the spectrum equally well. Independent benchmarking has identified this ambiguity as a dominant source of 
+
+[034] Sequencing-Free Protospacer-Adjacent Motif Discovery for Uncharacterized CRISPR-Cas9 Orthologs via Active Learning
+Category: bioengineering
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760532
+Abstract: Cas9 nucleases, essential components of gene editing, recognize target DNA through a Protospacer-Adjacent Motif (PAM) and cleave only if recognition succeeds. Metagenomic searches and generative protein models currently produce novel CRISPR-Cas9 orthologs at scale, but their adoption in practice is limited by a laborious and data-intensive PAM characterization step which requires exhaustive in vitro and/or in vivo screens followed by sequencing. We present a workflow that reduces PAM discovery t
+
+[035] Going beyond labels: Semi-supervised learning for enzyme kinetic parameter prediction
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759462
+Abstract: Enzyme kinetic parameters, such as the turnover number (kcat), underpin enzyme engineering and metabolic modeling. Machine learning models can predict these parameters from sequence and substrate representations, but their accuracy is limited by the scarcity and narrow coverage of experimentally labeled data, particularly for out-of-distribution enzymes. Existing strategies to exploit unlabeled data rely on homologous sequences, pseudo-labels or synthetic perturbations of labeled samples, limiti
+
+[036] Glycoconjugates tune the viscoelastic signature of mammary tumor progression
+Category: cancer biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760544
+Abstract: Breast cancer progression involves extensive remodeling of the tumor extracellular matrix (ECM), resulting in changes in mechanical properties. Tumors are viscoelastic, exhibiting both an initial elastic response to loading and a time-dependent viscous response. While it is well established that tumor elasticity or stiffness is elevated, changes in tissue viscoelasticity during breast cancer progression remain poorly characterized. Here, using a mouse model that recapitulates stages of human bre
+
+[037] GENOAR: Global Engine for Navigating the Omnicell space via Agent-based Research
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759380
+Abstract: Although generative models have revolutionized many fields, including genomics, building a scalable dataset compatible with artificial intelligence (AI) is essential yet underexplored. Here, we developed a Global Engine for navigating the Omnicell space via Agent-based Research (GENOAR) that covers approximately 54 million cells for diverse downstream tasks using AI agents and parallel computing. GENOAR outperforms in three parts. Parallel computations accelerated the preprocessing of single-cel
+
+[038] The relevance of GGCC methylation for cyanobacterial gene expression regulation
+Category: microbiology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760421
+Abstract: Epigenetic DNA modifications are pivotal in eukaryotic gene expression, but their regulatory significance in bacteria is less understood. In the Synechocystis 6803 genome, the DNA-specific methyltransferase M.Ssp6803II modifies the first cytosine in the 38,512 GGCC motifs, forming N4-methylcytosine (GGm4CC). Previous analyses showed that deletion of the gene encoding M.Ssp6803II ({triangleup}sll0729), caused a bluish phenotype due to reduced expression of the hemJ gene. This effect was caused by
+
+[039] The DGKK mRNA is a primary target of the Prader-Willi syndrome-associated snoRNA SNORD116
+Category: molecular biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760352
+Abstract: Box C/D small nucleolar RNAs (SNORDs) classically guide site-specific modification of ribosomal RNAs through antisense elements located upstream of their D[prime] and D boxes, termed ASE1 and ASE2. Yet many orphan SNORDs have no established primary targets, including the paternally expressed multicopy SNORD116 family implicated in Prader-Willi syndrome. Our previous comparative analysis identified the DGKK/Dgkk interaction as the most evolutionarily persistent candidate involving the highly cons
+
+[040] Carbon-A: Unified Genome Annotation across Eukaryotic Diversity
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760448
+Abstract: Structural genome annotation remains a bottleneck in eukaryotic genomics as conventional methods depend on external evidence that is unevenly available across the tree of life, and existing ab initio predictors are typically specialized for particular taxonomic groups. We introduce Carbon-Annotator (Carbon-A), a 1.2-billion-parameter encoder model that uses a single checkpoint to annotate protein-coding genes directly from genomic sequences across the breadth of eukaryotic diversity, including m
+
+[041] Experimental reasoning in large language models
+Category: bioengineering
+Topics: lab_automation
+DOI: 10.64898/2026.10.20.760214
+Abstract: Scientific reasoning requires interaction with the physical world: designing experiments, interpreting outcomes, and deciding what experiment should come next. Here we show that general-purpose large language models (LLMs) already possess substantial capabilities for experimental reasoning. We connected LLMs to a liquid-handling robot and camera through PEARL, which provides perception, action, and persistent state. Given objectives rather than prescribed workflows, the system designed and succe
+
+[042] Helix Design Studio: designing antimicrobial peptide candidates for membrane environments
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760466
+Abstract: The activity of many antimicrobial peptides (AMPs) depends on how their sequences interact with different membrane environments. This creates a design challenge: improving compatibility with a target environment can also favour interactions under conditions where activity is undesirable. Helix Design Studio is an open-source web application that addresses this challenge by analysing and designing peptide sequences on a prescribed -helical scaffold. A published environmental scoring framework com
+
+[043] DNA methylation subtypes inferred from transcriptomes guide sunitinib and immunotherapy selection in renal cancer
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.1101/2024.11.05.622095
+Abstract: Responses to targeted and immune checkpoint therapies in metastatic clear cell renal cell carcinoma (ccRCC) are heterogeneous, and no predictive biomarker is available. We performed a meta-analysis of DNA methylation profiles from 727 ccRCC tumors, benchmarked four published signatures, and identified a hyper-methylated subtype (15% of tumors) associated with shorter overall survival. Integration of 589 matched transcriptomes showed that hyper-methylated tumors were more proliferative, depleted 
+
+[044] Africa's Genetic Heritage in the Digital Era:DSI Governance Gaps, Multi-Forum Benefit-Sharing Architecture, and Strategic Priorities for COP17.
+Category: ecology
+Topics: scientific_informatics
+DOI: 10.64898/2026.05.18.725948
+Abstract: ABSTRACT Background: Africa is among the most biologically rich continents on Earth for non-human life, yet structurally excluded from the benefit-sharing framework that the Convention on Biological Diversity (CBD) was designed to create. Digital sequence information (DSI), nucleotide and protein sequence data derived from non-human organisms including plants, animals, fungi, microbiota, pathogens, and human microbiome-associated micro-organisms, underpins industries generating over USD 1.56 tri
+
+[045] The Drosophila Secretome
+Category: genetics
+Topics: scientific_informatics
+DOI: 10.64898/2026.08.24.746765
+Abstract: Secreted proteins are synthesized within the cell and actively transported outside, where they contribute to development, physiology, immunity, and cell to cell communication. In Drosophila melanogaster, many secreted proteins are evolutionarily conserved, making this species a powerful model for studying human development, cancer, neurobiology, and immune regulation. To assemble the Drosophila secretome, we systematically analyzed all fly protein sequences with computational tools, integrating 
+
+[046] Temporoparietal alpha dynamics shape feedback-based updating during social bargaining
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.04.03.716401
+Abstract: Adaptive behavior requires weighting incoming feedback against more stable action policies, but the neural dynamics controlling this balance during social interaction remain unclear. Across 296 experimental sessions in 219 participants, we combined computational modeling, EEG, fMRI, diffusion MRI, and fMRI-guided rhythmic TMS during repeated social bargaining. Behavior was captured by complementary feedback-based updating and reputation-based adjustment, with reproducible individual differences 
+
+[047] A Reproducible Fetal Lamb Model of Complex Gastroschisis with Temporal Characterization of Bowel Changes
+Category: developmental biology
+Topics: ai_reliability
+DOI: 10.64898/2026.03.25.714287
+Abstract: Objectives To determine whether a fetal lamb model reproducibly induces complex gastroschisis at term with its associated structural and functional bowel changes, and to compare its occurrence and associated bowel findings at different post-induction intervals. Methods Gastroschisis was surgically induced in fetal lambs at gestational day 75 by creating a standardized abdominal wall defect stabilized with a silicone ring. Fetuses were assessed at term or at mid-gestation (13-21 days after induct
+
+[048] GOLDEN: Gene expression and allele-informed decomposition for genetic heterogeneity in spatial transcriptomic data
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759920
+Abstract: Motivation Spatial transcriptomics (ST) enables exploration of cellular interactions, including immune responses. However, current methods rely on pathologists, with limitations in addressing genetic heterogeneity, where niches harboring nonclonal cells, including placental or allograft tissues, are present. Deciphering these interindividual mixtures remains challenging. Results For deciphering interindividual heterogeneity in ST, we developed GOLDEN (Gene expressiOn and aLlele-informed DEcompos
+
+[049] A community benchmark enables high-resolution, cross-lab quantification of mouse social behavior
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.758876
+Abstract: Social behavior is a sensitive readout of brain state, but quantifying rodent social behavior at scale has relied on siloed, lab-specific tools. We assembled Days of our Mice (DooM), a benchmark of manually annotated video and pose tracking spanning 15 laboratories and 33 social and solitary behaviors, and hosted a community behavior classification challenge. We built on challenge solutions to develop the High-Dimensional Rodent Annotator (HiDRA), a behavior classification tool that generalizes 
+
+[050] Urban planning leaves an audible legacy in a megacity's bird soundscape
+Category: ecology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759919
+Abstract: Cities are planned for people, yet planning also determines where wildlife persists and where residents hear it. How can this acoustic footprint guide planning and monitoring? We combined AI-powered passive acoustic monitoring at 31 stations with detection-corrected models and spatial validation to map Asian Koel activity across Shenzhen. Koel acoustic opportunity declined with tree and built cover and increased with starling and myna opportunity; host information improved prediction at unmonito
+
+[051] Water plant functional groups: a trait-based classification database for Australian plants
+Category: ecology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759887
+Abstract: Trait-based functional classifications of species offer improved generality in predicting responses to environmental conditions. Water plant functional groups (WPFG) are one such classification. Grouping plant species based on traits associated with germination, growth and reproductive requirements, WPFG have proven useful in examining plant trait-hydrological relationships in aquatic plant research in Australia. Here, we collate existing information from across academic, government and personal
+
+[052] Decision benchmarking reveals when protein foundation models add experimental value
+Category: bioengineering
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758966
+Abstract: Protein engineering is shifting from model-based variant scoring to deciding what to measure next. This exposes a limitation of fixed-dataset benchmarks, which rank predictors without showing when their advantage survives as evidence accumulates. We therefore introduce decision benchmarking across 217 ProteinGym assays, 2.47 million variants and 95 predictors to evaluate whether models and measurements improve decisions at matched cost. Zero-shot accuracy explained less than one-fifth of the var
+
+[053] Mechanistic Insights into Adaptive Binding of Vitamins and Hormones at Hotspot-Enriched Interfaces of the Synaptotagmin 1 C2AB Domain
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.760018
+Abstract: The present in silico study provided the adaptive binding of seven physiologically active molecules, including four non-peptide hormones (cortisol, estradiol, triiodothyronine, melatonin) and three vitamins (methyltetrahydrofolate, pyridoxal phosphate, thiamine), alongside argireline as a benchmark, at hotspot-enriched interfaces of full C2AB-domain of Synaptotagmin 1 (Syt1), using molecular docking study and molecular dynamics (MD) simulations. Linear correlations of MD-features and nonlinear K
+
+[054] BiHC: Protein domain segmentation by bidirectional hierarchical clustering using Voronoi tessellation and physical self-containment
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759833
+Abstract: Protein domains are commonly regarded as structurally separated, functionally relevant, and evolutionarily separable units. Although classification systems may assign different domain boundaries to the same structure, structural separation remains a shared criterion, and many domain parsers assess it through inter-residue distances, contact numbers, or contact densities. However, the Voronoi contact area, which is widely used to study protein-protein interactions and predict contact sites, has s
+
+[055] B-REAL: A keypoint-less behavior platform for offline classification and real-time detection
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758637
+Abstract: Two obstacles limit automated behavior analysis in neuroethology: the burden of first training pose estimation models, and the inability to identify behavior quickly enough for real-time classification that could trigger stimuli, drug delivery, or environmental manipulations. Here we present B-REAL, a pose-free classifier that maps raw video to behavior faster than video frames are recorded, even on a CPU. Given substantially less training data, B-REAL matched or surpassed established methods tr
+
+[056] The impact of strain heterogeneity on genomic profiling accuracy in mixed-strain Escherichia coli metagenomes
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.760091
+Abstract: Metagenomic sequencing is increasingly used for surveillance of bacterial populations, enabling simultaneous characterisation of antimicrobial resistance, virulence, and epidemiologically relevant strain markers. However, the ability of commonly used bioinformatic tools to recover these features from heterogeneous populations remains incompletely understood. Here, we developed a controlled benchmarking framework based on simulated single-species Escherichia coli metagenomes generated from genome
+
+[057] Integrating Multisource Target Evidence with Machine-Learning Potency Prediction for Alzheimer's Disease Drug Discovery
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759026
+Abstract: Alzheimer's disease (AD) target evidence is distributed across biological, chemical, structural, regulatory, and trial-registry sources, complicating reproducible target evaluation and modeling. We developed a traceable data-to-model platform that integrates AGORA-centered evidence through Target Explorer, Drug-Target Lookup, and Model Portfolio workspaces. The resource contains 967 targets, 452,249 compounds, and 1,430,260 measurements. On a curated PIK3CA dataset, target-specific fine-tuning o
+
+[058] ChEBI-N - Enrichment Analysis with the ChEBI Ontology
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.14.758784
+Abstract: Introduction: Biological and chemical ontologies are structured representations that can be used to map entities such as metabolites onto broader chemical and biological categories. Enrichment analysis applied to such ontologies identifies classes whose representation within a set deviates from an expected background distribution, helping to interpret complex metabolomics measurements. Objectives: This study aimed to develop a tool for ChEBI (Chemical Entities of Biological Interest) ontology-ba
+
+[059] multiomeR: a pipeline for reproducible analysis of large-scale single-nucleus Epi Multiome datasets
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759117
+Abstract: The 10x Genomics Epi Multiome assay measures gene expression and chromatin accessibility in the same nuclei, and studies increasingly profile many samples. Yet analysis after Cell Ranger ARC is usually assembled by hand from separate tools, which makes it slow to revise, hard to reproduce and memory-intensive for large studies. multiomeR addresses these problems with a configurable R pipeline for quality control, processing and integration of both data types, and cell-type annotation across many
+
+[060] Hybrid Semantic-Lexical Retrieval for Source-to-CDE Mapping in the NCI caDSR
+Category: bioinformatics
+Topics: scientific_informatics, ai_reliability
+DOI: 10.64898/2026.10.14.758967
+Abstract: Accurate mapping of local source data elements to standardized common data elements (CDEs) is critical for biomedical data integration but is challenged by short, abbreviated, and heterogeneous source descriptions. We constructed a benchmark of approximately 69,000 expert-linked source-to-CDE mappings from the National Cancer Institute\textquotesingle s caDSR and evaluated multiple bi-encoder models with two-stage fine-tuning. Here we developed a hybrid retrieval system combining semantic bi-enc
+
+[061] XplainTDA: Explaining the topological structure of single-cell multi-omics data through perturbation
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759129
+Abstract: Single-cell experiments have improved our ability to study biological systems by profiling thousands of cells simultaneously. The data can be viewed as a point cloud in a proper experimental space, whose shape is defined by the gene regulatory network. Persistent homology has been proposed as a method for studying the intrinsic structure of data and has shown the potential to reveal novel insights. Existing approaches focus on detecting topological features or groups of cells, without a focus on
+
+[062] Development of py-mea-flow for comprehensive analysis of multi-electrode array data and its application to LGI2-deficient neurons
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759118
+Abstract: Multi-electrode arrays (MEAs) generate mid- to high-throughput electrophysiological data widely used to characterise neural network activity in vitro. Downstream analysis of recordings from Axion Biosystems instruments, however, has long depended on the manufacturers closed-source pipeline (AxIS Navigator, NeuralMetric Tool, AxIS Metric Plotting Tool), limiting customisation and integration into flexible Python workflows. We present py-mea-flow, an open-source Python package providing end-to-end
+
+[063] What does domain-specific pretraining buy? A 170,000-parameter plant peptide language model against the ESM-2 scaling curve
+Category: plant biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.760098
+Abstract: Small signalling peptides (SSPs) coordinate development and stress response in plants, and the computational tools that identify them represent sequences using general-purpose protein language models trained across all known proteins. How much a representation learned on the SSP sequence space itself is worth, measured against generalist embeddings of varying size, has not to our knowledge been quantified. We pretrain PhytoPepBERT, a 169,567-parameter masked language model implemented from scrat
+
+[064] Simulation-free approximate Bayesian computation for stochastic reaction networks
+Category: systems biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.760104
+Abstract: Uncovering stochastic reaction networks from data is central to single-cell biology. Simulation-based inference has evolved into a flexible paradigm for this purpose, circumventing the computational intractability of the likelihood. Notably, approximate Bayesian computation performs this inference by carrying out extensive Gillespie simulations, usually at a high computational cost. Here, we propose a simulation-free approximate Bayesian computation (SFABC) framework that avoids both simulation 
+
+[065] abcneuralnet: Simulation-based Inference with Bayesian Neural Networks and Explainable AI for Population Genomics Inference
+Category: genetics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.17.759821
+Abstract: Approximate Bayesian Computation (ABC) is a widely used simulation-based likelihood-free framework for demographic inference in population genomics, yet ABC struggles with high dimensional datasets (i.e. the curse of dimensionality) and currently offers limited diagnostic tools to account for misspecification of the simulated model and calibration of prediction intervals. I present 'abcneuralnet', an R package that couples Bayesian Neural Networks (BNNs) with ABC and Conformal Prediction to prov
+
+[066] ASD-FER: An Annotated Multi-Class Benchmark and Comparative Study for Facial Emotion Recognition in Children with Autism Spectrum Disorder
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.754143
+Abstract: Autism Spectrum Disorder (ASD) affects social interaction and communication, and automatically recognizing emotions from the facial expressions of children with ASD remains challenging. A key barrier to facial emotion recognition (FER) in children with ASD is the absence of ASD-specific datasets with proper emotion-level annotations. To address this, we present ASD-FER, a benchmark of 2,779 facial images of children with ASD annotated across six emotion categories by three independent annotators
+
+[067] Decoding pseudoexon activation by deep intronic variants using a high-throughput minigene assay in the NF1 gene
+Category: molecular biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.20.760351
+Abstract: Deep intronic variants can cause aberrant splicing, often manifested as pseudoexon inclusion, which represents a significant challenge in clinical diagnostics. Pseudoexon activations have been repeatedly described in the NF1 gene, making it a promising genomic context for studying underlying mechanisms. Here, we developed a specialized minigene assay by combining high-throughput mutagenesis and next-generation sequencing to evaluate the splicing effect of 501 deep intronic variants within NF1 in
+
+[068] A Multidimensional Arithmetical Ontology for High-Parameter Cytometry: Gaussian Primes and Cryptographic Hashing for Cell Population Standardization
+Category: bioinformatics
+Topics: scientific_informatics, ai_reliability
+DOI: 10.64898/2026.10.14.758936
+Abstract: Background. The rapid expansion of high-dimensional single-cell technologies has outpaced the development of standardized metadata infrastructure. Current text-based nomenclature for cell populations and gating strategies lacks computational rigor, hindering cross-study reproducibility and automated machine learning. Our previous mathematical frameworks, the Prime Population System (PPS) and the Unique Gating Identifier (UGI), proposed arithmetical solutions but were limited by biological fragil
+
+[069] Capturing Spatial Heterogeneity Using UAV-Derived Multispectral Phenotypes and Random Regression Models Improves Genetic Evaluation in Alfalfa Breeding Trials
+Category: genetics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759249
+Abstract: Spatial heterogeneity is a major source of environmental noise in field trials, reducing genetic evaluation accuracy. Conventional spatial correction methods use field layout and plot proximity but often fail to capture in-season dynamics or leverage temporal data from high-throughput phenotyping. We hypothesized that longitudinal UAV-derived multispectral measurements could characterize field-scale environmental heterogeneity and improve genetic evaluation in breeding trials. Multispectral imag
+
+[070] A data model for longitudinal multi-modal biomedical cohorts
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759237
+Abstract: Longitudinal multimodal cohort studies require data models that can integrate heterogeneous molecular, phenotypic, and contextual data while preserving relationships across participants, biospecimens, study visits, and computational transformations. Here, we present the data model developed for the Multi-Omics for Health and Disease (MOHD) Consortium, a modality-agnostic, provenance-driven framework designed to support an evolving longitudinal biomedical resource. The model uses a compact set of
+
+[071] Robustness of Ancestral Recombination Graph Inference Tools to Phasing Errors
+Category: genetics
+Topics: ai_reliability
+DOI: 10.1101/2025.11.24.690249
+Abstract: Ancestral Recombination Graphs (ARGs) are fundamental population genetic structures that encode the genealogical history of a sample of haplotypes along the genome. They have recently received substantial attention as they can be used to provide accurate estimates of population history, form the foundation for selection scans, provide time-labeled estimates of changes in mutation rates, and more. ARGs can be inferred using multiple different methods, but these methods all rely on computational h
+
+[072] Relational Graph Convolutional Networks for Glioblastoma Biomarker Discovery via ceRNA and Copy Number Variation Analysis
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.08.16.744525
+Abstract: Glioblastoma (GBM) is a highly aggressive brain tumor with a five-year survival rate of 6.9%, attributable in substantial part to the shortage of reliable biomarkers. Competing endogenous RNA (ceRNA) and copy number variation (CNV) analyses each carry biomarker-identification potential, but existing work treats them separately and does not integrate multiple regulatory mechanisms. We therefore applied relational graph convolutional networks (RGCNs) to ceRNA and CNV knowledge graphs under a late-
+
+[073] Three-dimensional object-based quantification of nicotinic acetylcholine receptor subunit colocalization using Imaris
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758376
+Abstract: Neural circuit function depends not only on synaptic connectivity but also on the molecular composition and spatial organization of neurotransmitter receptors. Determining whether receptor subunits occupy shared or distinct domains requires spatial measurements capable of resolving sparse receptor puncta across neural tissue and, when needed, restricting analysis to defined cellular compartments. Conventional intensity-based colocalization metrics can be difficult to interpret for sparse, puncta
+
+[074] Effects of Alternating Polarity Frequency on the Assembly of Electro-Methanogenic Microbial Communities
+Category: microbiology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759672
+Abstract: Electro-methanogenesis can enhance methane production and has attracted extensive interest, but the current strategies for building electro-methanogenic microbial communities suffer from several limitations. Alternating polarity has been shown as a new strategy to build electro-methanogenic communities, but the impact of alternation frequency on community assembly remains to be understood. In this study, the impact was evaluated using bioelectrochemical systems amended with granular activated ca
+
+[075] Benchmarking Microbiome Methods for Improved Metagenomic Sequencing of Lower Respiratory Tract Samples
+Category: microbiology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759757
+Abstract: Bronchoalveolar lavage is a common diagnostic strategy used to sample immune cells and microbiota of the lower respiratory tract. Metagenomic sequencing of raw bronchoalveolar lavage fluid reveals a low biomass microbial community often obscured by abundant host DNA. Here, we set out to determine an optimal strategy to robustly purify microbial DNA in excess of human DNA using a combinatorial lysis, host-depletion, DNA extraction approach. We identify strategies that improve metagenomic sequenci
+
+[076] Kawasemi-Colours: an open end-to-end platform for structure-colour design based on avian structural colour
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.11.758316
+Abstract: Structural colour provides durable, pigment-free colouration by controlling the interaction of light with nanostructured materials rather than by using wavelength-selective pigments. In birds, non-iridescent blue and green plumage arises from coherent scattering by quasi-ordered keratin-air nanostructures, making these natural systems attractive models for sustainable colour engineering. Despite decades of research on their optical mechanisms, open end-to-end implementations that connect biologi
+
+[077] StainAI-Web: An Interactive Platform for Whole-Slide Microglial Morphology Analysis
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.17.759834
+Abstract: Microglial morphology analysis has emerged as a critical approach in neuroinflammation research. The increasing availability of high-resolution and whole-slide histology images has created strong demand for robust, scalable analytical methods capable of efficiently processing these datasets. Existing approaches may require code-based local computation or prolonged processing times for whole-slide images, while manual morphology quantification remains labor-intensive. To address these limitations
+
+[078] Beyond Segmentation Accuracy: Evaluating Biological Fidelity in Spatial Pathology
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.17.759841
+Abstract: Multiplex immunofluorescence (MxIF) resolves cellular identity, state, and spatial organization within tumor tissue, enabling higher-order representations of cancer ecosystems including immune infiltration, multicellular neighborhoods, and tissue niches. Yet these analyses depend on a deceptively simple first step: accurately identifying individual cells. Segmentation errors can alter marker quantification, cellular phenotypes, cell-cell relationships, and ultimately the spatial organization inf
+
+[079] TiSAM: fusing spatial and histopathology foundation models for whole-slide image segmentation
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759688
+Abstract: Semantic segmentation of whole-slide images (WSIs) quantifies tissue composition and architecture, but existing models require extensive annotation and lose accuracy as the number of tissue classes increases or on heterogeneous, cross-scanner datasets. Here, we present the Tissue Segment Anything Model (TiSAM), which fuses SAM3 spatial features with UNI2-h pathology features within a multi-scale decoder. Because public benchmarks contain few tissue classes, we release MegaMouse, comprising 36,83
+
+[080] HyARQ: a Snakemake workflow for allele-specific read counting and quality control in F1 hybrids
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759667
+Abstract: Summary Allele-specific analysis in F1 hybrids allows direct assessment of how cis-regulatory variation contributes to differences in gene expression and other regulatory features. However, allele-specific analyses are sensitive to errors arising from multiple sources, including mapping bias and technical variation, requiring careful processing and quality control. These challenges are compounded by the fact that workflows for different molecular assays are often developed separately, making con
+
+[081] Predicting Lifespan-Extending Compounds Using Supervised Machine Learning
+Category: bioinformatics
+Topics: ai_drug_discovery
+DOI: 10.64898/2026.10.16.759743
+Abstract: Identifying lifespan-extending compounds is an important objective in ageing research, but experimental screening remains costly and time consuming. This study evaluates supervised machine learning for predicting lifespan-extending compounds in Caenorhabditis elegans using compound-protein interaction features derived from the STITCH database. Three feature representations were compared: continuous interaction probabilities, binary features generated using a fixed threshold of 0.5, and binary fe
+
+[082] CALISTO: A Standardized and Open-Source Software for Magnetic Tweezer Force Calibration
+Category: biophysics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.17.759816
+Abstract: Magnetic tweezers (MT) enable multiplexed single-molecule force spectroscopy while applying controlled forces and torques to biomolecules. They resolve forces below 1 pN and maintain constant forces over extended periods, but accurate calibration remains challenging due to drift, tracking artifacts, camera noise, and bead variability. Here, we present CALISTO (CALIbration Suite for magnetic Tweezer Operation), an open-source software for MT force calibration. CALISTO analyzes position traces of 
+
+[083] Domain-resolved epitope mapping of B7-H3-targeting VHH-Fcs defines isoform-selective binders for antibody-drug conjugate development
+Category: cancer biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759583
+Abstract: The immune checkpoint molecule B7-H3 has emerged as one of the most actively pursued therapeutic targets in solid tumors, and multiple B7-H3-targeting antibody-drug conjugates have entered clinical evaluation. B7-H3 occurs as a 2Ig isoform carrying a single IgV-IgC domain pair and a predominant 4Ig isoform carrying two tandem pairs of near-identical sequence in their extracellular domains. Resolving which pair an antibody engages, or how antibodies distinguish the two isoforms, requires epitope 
+
+[084] RegDesign-Bench: Benchmarking computational methods for cell-type-specific regulatory DNA design
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759890
+Abstract: The de novo design of regulatory DNA sequences that drive cell-type-specific gene expression could enable precise gene control in synthetic biology, cell engineering and gene therapy. Various computational methods have been developed for this task, yet systematic comparisons that guide method selection for different design objectives remain limited. Here, we introduce RegDesign-Bench, a standardized framework for evaluating cell-type-specific cis-regulatory element design through a comprehensive
+
+[085] Robust geometric drift correction and identity reconstruction for biological 3D time-lapse point clouds
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.17.759823
+Abstract: Structural time-lapse microscopy experiments aim to follow cells or subcellular structures over time, typically by detecting objects in each frame and linking them into trajectories. In practice, this process yields sequences of spatial coordinates derived from segmentation, while identity information across time is often absent or unreliable. In addition, the observed coordinates may be affected by systematic geometric drift. As a result, two coupled inference problems arise: geometric drift mu
+
+[086] WispLab: open-source browser workbenches for laboratory image and qPCR analysis with reference-based verification
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759898
+Abstract: Western blot densitometry, histological image quantification and relative qPCR analysis require choices about regions, backgrounds, thresholds, normalization and statistical comparisons. WispLab connects these operations in three open-source browser workbenches with Chinese and English interfaces, visible parameters and downloadable results. Routine quantitative processing runs locally; an optional external vision service in the Western blot tool is a separate data-transfer pathway. We assessed 
+
+[087] PigGPA: A Domain-Constrained Agent for Porcine Genomic Breeding with Verifiable Tool Execution
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759908
+Abstract: Large language model agents can plan and execute scientific analyses, but successful task completion does not establish whether analytical decisions remain consistent across independent sessions or whether computations follow the parameters specified beforehand. We investigated these limitations using four genomic analysis tasks. General-purpose agents showed limited consistency in analytical decisions across repeated sessions (57.5-58.8%). Incorporating domain knowledge improved analytical perf
+
+[088] Auditing Confidence-Calibrated Benchmarking of Single-Cell Perturbation Models
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758706
+Abstract: Single-cell perturbation models are increasingly assessed for both predictive performance and calibrated uncertainty under distribution shift. We constructed such an evaluation harness (two datasets, Norman 2019 and Replogle 2022; four split types over six dataset-split combinations; three models, scVI, CPA and a linear Ridge baseline; three uncertainty quantification methods, MC dropout, quantile regression and split conformal prediction) and then audited it against null baselines it had never 
+
+[089] The accessible human surfaceome
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.18.759859
+Abstract: Proteins associated with the extracellular face of the plasma membrane ("surface proteins" or the "surfaceome") are important therapeutic targets because they can direct therapeutics to specific cell types and deliver them into cells. However, experimental and computational databases disagree substantially on which proteins make up the human plasma membrane proteome, and none focus specifically on the set of accessible surface proteins that would be useful for therapeutic applications. Here, we 
+
+[090] Engineering the effector specificity of the macrolide-sensing transcription factor MphR for the detection of sesquiterpenes
+Category: synthetic biology
+Topics: lab_automation
+DOI: 10.64898/2026.10.16.759199
+Abstract: Terpenes are a large, diverse class of natural products used as flavors, fragrances, pharmaceuticals, and more, yet obtaining them often requires either large quantities of biomass or complex chemical reactions. Directed evolution of key enzymes and pathways could improve biosynthetic yields, but most sesquiterpenes lack high-throughput screening methods to search large libraries of variants. To alleviate this bottleneck, we developed the first reported genetically encoded biosensor to detect fo
+
+[091] Genetic Perturbation Prediction Models Fail Out-of-Distribution: A Rigorous Benchmark and Systematic Evaluation
+Category: systems biology
+Topics: ai_drug_discovery, ai_reliability
+DOI: 10.64898/2026.10.16.759604
+Abstract: Perturbation prediction models - which forecast transcriptional responses to gene inactivation - are increasingly proposed as in silico surrogates for genome-scale drug discovery screens. Yet, rigorous evaluation of whether these models genuinely generalize beyond their training distribution has been lacking. Existing benchmarks rely predominantly on random train-test splits, obscuring systematic failure modes that only emerge under realistic out-of-distribution (OOD) conditions. Here we introdu
+
+[092] High-Throughput Screening Identifies Proteasome Inhibitors as Potentiators of Type III Interferon JAK-STAT Signaling and Antiviral Immunity
+Category: immunology
+Topics: lab_automation
+DOI: 10.64898/2026.10.12.758093
+Abstract: Type III interferon (IFN3, IFN{lambda}) drives antiviral defense at epithelial barriers with a more favorable safety profile than Type I interferon (IFN1), but weaker signaling limits its therapeutic potential. To identify small molecules that potentiate IFN-JAK-STAT signaling, we developed a high-throughput live-cell assay measuring STAT1/STAT2 phosphorylation in A549 cells and screened ~8,640 compounds. This identified proteasome inhibitors (MG132, delanzomib, ixazomib, oprozomib, bortezomib) 
+
+[093] DCAF: Unifying Data Validity, Evaluation Validity and Predictive Modeling for Single-cell Perturbation Simulation
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758713
+Abstract: Single-cell perturbation profiling is limited by cost and throughput, while computational methods remain constrained by inconsistent evaluation and underperformance relative to simple baselines. Here we present DCAF, a unified framework for single-cell perturbation simulation that that jointly addresses data validity, evaluation validity and predictive modeling. Among its three components, DCAF-data addresses the single-measurement limitation by reconstructing pre- and post-perturbation status u
+
+[094] Determinants of cysteine coverage by chemoproteomics
+Category: bioinformatics
+Topics: ai_drug_discovery, ai_reliability
+DOI: 10.64898/2026.10.12.758458
+Abstract: Covalent chemoproteomics has become a powerful route to expanding the druggable proteome, enabling proteome-wide screening of compounds that covalently modify nucleophilic residues, most commonly cysteine. Yet typical experiments detect only 5-18% of the ~250,000 cysteines encoded by the human proteome, and the determinants of this limited coverage remain poorlydefined. Here we combine cysteine featurisation, explainable machine learning (ML) and robust statistical filtering to establish what go
+
+[095] SYNBRIDGE: A VERSATILE FRAMEWORK FOR BIDIRECTIONAL INTERCONVERSION BETWEEN BIOBRICKS AND GOLDEN GATE ASSEMBLY STANDARDS
+Category: synthetic biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759639
+Abstract: Component reusability and interoperability are fundamental to synthetic biology. While BioBricks laid the groundwork for part domestication, Golden Gate-based assembly standards, in particular Modular Cloning (MoClo), revolutionized multipart assembly. Despite widespread adoption, standardized conversion between these two popular frameworks remains challenging due to sequence incompatibilities. While de novo synthesis remains constrained by cost and sequence complexity, conventional PCR-based co
+
+[096] Scalable proteomics with multiDIA resolves proteoforms in neurodegenerative disease
+Category: systems biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.756994
+Abstract: Deep proteome characterization has traditionally required multidimensional chromatographic fractionation, long acquisition times and large sample amounts, thus limiting scalability. Here, we introduce multiDIA, which combines independent digestions with multiple proteases and data-independent acquisition (DIA) to increase sequence coverage without extensive chromatographic fractionation. By generating complementary and overlapping peptide representations of proteins, multiDIA identifies about 27
+
+[097] Trust, but Verify: Epistemic Uncertainty-Gated Pseudo-Labeling for Safer Semi-Supervised Malaria Screening
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758712
+Abstract: Background. Deep learning could make malaria microscopy more accessible in low-resource settings, but training it usually needs thousands of expert-labeled images. Semi-supervised learning (SSL) reduces this need by also learning from unlabeled images. However, methods such as FixMatch accept pseudo-labels using a fixed confidence threshold, and lowering that threshold to use more data can teach the model to make confident mistakes. These silent failures are dangerous because they are never flag
+
+[098] MedMCP: An Open Agentic Ecosystem for Medical Imaging Workflows
+Category: bioinformatics
+Topics: ai_drug_discovery, ai_reliability
+DOI: 10.64898/2026.10.12.758708
+Abstract: Deep learning has driven rapid progress in medical image analysis, with methods for tasks such as organ segmentation, anomaly detection, and radiology report generation now matching or surpassing expert performance on several benchmarks. While many methods are released as open source, their routine adoption by clinicians and medical researchers remains limited. The bottleneck is not a lack of capable tools, but the absence of infrastructure to make them accessible to non-technical users. To brea
+
+[099] CCTP-Atlas: Compartment-Resolved Ciliary Transcriptional Dysregulation in Tetralogy of Fallot, A Six-Dataset Integrative Meta-Analysis
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758603
+Abstract: Background. Primary cilia coordinate Hedgehog-dependent outflow tract morphogenesis. Concurrent human genetics implicates ciliary loss-of-function in nonsyndromic tetralogy of Fallot (TOF) risk, yet compartment-resolved ciliary transcriptional programmes in public TOF snRNA-seq remain unmapped at module resolution. Methods. We curated a Cardiac Ciliary Transcriptomic Panel (CCTP; 1,611 genes; four modules) and executed a ten-phase integrative pipeline on six public sc/snRNA-seq resources. Differ
+
+[100] Benchmarking and integration of viral prediction tools to uncover viral dark matter across divergent low abundance metagenomes
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759168
+Abstract: While existing benchmark studies have focused on viral detection tools using highly-abundant virus-enriched, their performance in low-abundance metagenomic environments remains unexplored. We aimed to benchmark eleven viral prediction tools and assess combinations of the best-performing-tools in low-abundance metagenomes. We generated an artificial dataset simulating the low-abundant metagenomic samples including human,bacterial and viral sequences, using complete-Refseq genomes. Viral sequences
+
+[101] A synthetic MALDI-TOF MS atlas for microbial classification across hospitals
+Category: microbiology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.759651
+Abstract: Matrix-Assisted Laser Desorption/Ionization Time-of-Flight (MALDI-TOF) mass spectrometry (MS) is central to routine clinical microbiology for species identification. Its combination with machine learning is constrained by fragmented public datasets, species imbalance and acquisition-related variability. Synthetic datasets could provide more training data, but they must preserve the spectral information needed to make predictions on real samples. Here, we present an open, synthetic MALDI-TOF MS a
+
+[102] A Human Precision Cut Kidney Slice Platform for Studying Glomerular Biology and Therapeutic Responses
+Category: cell biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759734
+Abstract: Introduction: Short term human precision cut kidney slice cultures (PCKS) represent a tractable experimental that contains mature kidney cell types within their native anatomic context and that can be manipulated in vitro. In this study, we employ genomic tools to analyze the PCKS response to culture conditions and their suitability for study of glomerular disease biology. Methods: The impact of culture medium and oxygenation on PCKS viability and gene expression was explored using spatial trans
+
+[103] High efficiency gene editing and phenotype generation in avian embryos using lipid nanoparticles as a vector delivery platform
+Category: developmental biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.753869
+Abstract: Birds are a longstanding developmental biology model because easy access to their fertilized eggs allows for direct observation and experimental manipulation during any stage of embryonic growth prior to hatching. However, functional genetics studies in avian embryos continue to rely primarily on in ovo electroporation and viral transduction, each of which is limited by variable efficiency, procedure-induced embryonic defects, substantial embryo mortality, and ineffective delivery of gene editin
+
+[104] Integrated 16S rRNA Bioinformatics Analysis of Gut Microbiota, Predicted Pathways, and Candidate Biomarkers in Inflammatory Bowel Disease
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759573
+Abstract: Inflammatory bowel disease (IBD) is associated with changes in gut microbiota composition and predicted microbial functions that may relate to intestinal immune processes. This study compared gut microbiota profiles between individuals with IBD and healthy controls and examined predicted microbial pathways and their associations with bacterial genera. Publicly available 16S rRNA amplicon sequencing data from 22 stool samples (11 IBD and 11 healthy controls) were analysed. Taxonomic profiling, di
+
+[105] Establishing toxicologically relevant primary alveolar macrophage models to enable a realistic assessment of nanomaterials safety
+Category: pharmacology and toxicology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758669
+Abstract: Alveolar macrophages (AMs) are key sentinels of the distal lung, maintaining surfactant homeostasis and clearing inhaled particles through continuous surveillance and phagocytosis. Mechanistic studies of particle-cell interactions, important to assess the respiratory safety or toxicity of particles, however, are limited by the lack of suitable in vitro models that preserve the core features of resident AMs. Here, we benchmarked six murine AM models, including short-term cultured primary AMs (AMs
+
+[106] mixKIN: An ancestry-aware kinship estimation method for low coverage genomes
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758828
+Abstract: Genetic kinship analysis provides insights into the social and biological organization of past populations. However, kinship estimation from low-coverage genomes, which are common in ancient DNA (aDNA) studies, remains challenging, particularly in genetically heterogeneous or admixed populations. Approaches that assume a homogeneous background relatedness can bias estimates when individuals have distinct ancestry. We developed mixKIN, an ancestry-aware kinship estimation from low-coverage genome
+
+[107] PeakLocus: A transcript-aware toolkit for RNA-Centric Genomic Annotation
+Category: bioinformatics
+Topics: scientific_informatics, ai_reliability
+DOI: 10.64898/2026.10.17.759721
+Abstract: Annotating genomic coordinates is an important step for identifying where along the transcript genomic features are enriched yet many widely used peak annotation tools were designed primarily around general genomic or chromatin features. We developed PeakLocus, a dependency-free Java command line tool that assigns RNA feature to transcript interval in an explicitly RNA centered transcript context. PeakLocus accepts bed-like and tabular interval files together with a gene transfer file as referen
+
+[108] scOmnom: scalable end-to-end single-cell RNA-seq analysis with auditable resolution selection
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758797
+Abstract: Large-scale single-cell RNA-seq analysis remains fragmented across tools, with clustering decisions and revised annotations often carried between analysis stages through custom scripts. Here, we present scOmnom, a scalable, semi-automated Python workflow connecting quality control, integration, clustering, annotation, and downstream analysis. To automate clustering-resolution selection, we developed BISC, which identifies persistent clustering solutions from structural evidence and optionally us
+
+[109] Proteome scale drug prioritization from AlphaFold 3 interaction confidence
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.19.757941
+Abstract: AlphaFold 3 (AF3) predicts protein ligand complexes, but the utility of its confidence scores for drug prioritization remains unclear. We benchmarked AF3 interaction scores against BANDOCK+, an experimentally informed approach, using approved drugs and human protein libraries. AF3 ipTM achieved similar aggregate disease ranking performance to BANDOCK+, with differences among individual indications. These results support the evaluation of AF3 interaction confidence as a source of information for 
+
+[110] RDEmbed: A Sentence-Embedding Framework for Rare Disease Phenotype Representation and Phenotypic Similarity Analysis
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.16.759399
+Abstract: Accurate phenotypic characterization of patients with rare diseases is essential for improving diagnosis, patient matchmaking, and gene discovery. Conventional ontology driven approaches based on the Human Phenotype Ontology (HPO) enable structured phenotype comparison but often limited by the incomplete annotations and reduced ability to capture the contextual information contained in free-text clinical narratives. We present RDEmbed, a sentence embedding framework that learns patient phenotype
+
+[111] Metabolite-centric Knowledge Graph Unveils Predictive and Mechanistic Insights through Self-supervised Multimodal Learning
+Category: bioinformatics
+Topics: ai_drug_discovery, scientific_informatics
+DOI: 10.64898/2026.10.13.758464
+Abstract: Metabolomics research is advancing toward a comprehensive view of metabolites and their biological functions, yet conventional, dictionary-like databases fall short of presenting these complexities. To overcome this limitation, we developed MetaKG, a metabolite-centric knowledge graph that integrates diverse chemical, biological, and semantic data, coupled with a global self-supervised multimodal learning framework that generates advanced embeddings (MetaKGE) for both predictive and mechanistic 
+
+[112] MIEN: a deep-learning model for pocket-conditioned glycan pose and conformation discrimination
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758804
+Abstract: In protein-carbohydrate interaction, Molecular docking can generate many glycan poses that appear plausible, but the top-ranked pose may differ from the experimentally observed conformation. We introduce Minimal Interface Equivariant Network (MIEN), a structure-based equivariant graph network that scores the compatibility of a glycan pose with a fixed protein pocket. The model operates on a minimal-interface graph that contains only protein atoms forming polar or CH-pai contacts with the glycan;
+
+[113] CROSS-PLATFORM CONCORDANCE ANALYSIS REVEALS ROBUST AND CLINICALLY RELEVANT GENE SIGNATURES IN BREAST CANCER
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758788
+Abstract: Abstract Background: Breast cancer is a molecularly heterogeneous disease characterized by diverse transcriptional programs across tumor subtypes. RNA sequencing (RNA-seq) has become a central tool for profiling these alterations; however, variability in data processing pipelines can introduce inconsistencies in downstream analyses, limiting the identification of robust and reproducible gene signatures. Methods: We implemented a three-phase integrative framework to identify high-confidence gene 
+
+[114] Stain Normalisation Does Not Consistently Improve Matched-Location Retrieval with Pathology Foundation Models
+Category: pathology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758918
+Abstract: Pathology foundation models provide reusable representations for computational pathology, but staining- and scanner-induced variation may compromise the robustness and reproducibility of embedding-based analyses across acquisition settings. Stain normalisation is widely used to mitigate such colour variation, yet whether it improves retrieval with modern self-supervised pathology encoders remains unclear. We test whether stain normalisation improves cross-scanner and cross-staining image retriev
+
+[115] Scalable Enzyme Reaction Retrieval Enables Metagenomic Biocatalyst Discovery
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759509
+Abstract: Enzyme catalyzed reactions drive metabolism and enable diverse applications in biotechnology and sustainable synthesis, but assigning catalytic functions to uncharacterized enzymes and finding enzymes for target reactions remain major challenges. Despite recent advances in machine learning, translating enzyme function prediction into systematic discovery across the vast space of uncharacterized proteins and biochemical reactions remains challenging. Here we present EzHit, a lightweight framework
+
+[116] Real-Time Neurotransmitter Sensing in Midbrain Organoids Using 3D Carbon Cup Electrodes
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758473
+Abstract: Real time, chemically selective detection of neurotransmitter release in brain organoids remains a challenge due to their complex three dimensional architecture and limited optical accessibility. We introduce 3D printed carbon cup electrodes (CCEs) -pyrolyzed, multi level pillar structures - designed to confine a single organoid, increase electroactive surface area, and enable amperometric recordings of oxidizable neurotransmitters. The CCEs exhibit excellent electrochemical performance and repr
+
+[117] PlasmoRhythm: A comprehensive database for malaria-associated rhythmic transcripts, proteins, and metabolites
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.11.758397
+Abstract: Abstract: Motivation: The malaria transmission cycle is temporally organized across three interacting biological systems: the parasite, vertebrate host, and mosquito vector. Rhythms in parasite development, host physiology, and vector behavior govern infection dynamics, transmission, and the efficacy of stage-specific antimalarial interventions. However, the molecular architecture connecting these rhythms remains difficult to interrogate because time-resolved omics datasets are distributed acros
+
+[118] Beyond Better Models: Barriers and a Path Forward in Generalisable TCR Antigen Specificity Prediction
+Category: immunology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758456
+Abstract: T cells are at the centre of adaptive immunity, protecting the organism against infection and cancer. T cell receptors (TCRs), expressed on the surface of T cells, enable the recognition of target cells through interactions with peptides presented by major histocompatibility complex (pMHC) molecules. Reliable, large-scale mapping of TCRs to their cognate pMHCs remains a holy grail of modern systems immunology, with far-reaching implications for cancer immunotherapy, vaccine development, and the 
+
+[119] Determinants of cysteine coverage by chemoproteomics
+Category: bioinformatics
+Topics: ai_drug_discovery, ai_reliability
+DOI: 10.64898/2026.10.12.758458
+Abstract: Covalent chemoproteomics has become a powerful route to expanding the druggable proteome, enabling proteome-wide screening of compounds that covalently modify nucleophilic residues, most commonly cysteine. Yet typical experiments detect only 5-18% of the ~250,000 cysteines encoded by the human proteome, and the determinants of this limited coverage remain poorlydefined. Here we combine cysteine featurisation, explainable machine learning (ML) and robust statistical filtering to establish what go
+
+[120] Relation-Aware Graph-Hypergraph Networks for Antibody Sequence-Structure Co-Design
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758263
+Abstract: Motivation: The design of antibody complementarity-determining regions (CDRs) is pivotal for therapeutic development, yet remains challenged by the complexity of the antibody-antigen interface. Existing methods, which largely rely on pairwise relationships, struggle to capture intrinsic multi-body interactions and global structural constraints. Results: We propose the Relation-Aware Graph-Hypergraph Network (RA-GHN), a framework that unifies graph-based pairwise modeling with biophysical hypergr
+
+[121] Metalink: Joint taxonomic and functional profiling of metagenomes and metatranscriptomes across resolution scales
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.759005
+Abstract: Metagenomic and metatranscriptomic analyses remain largely fragmented: taxonomic and functional profiling are performed separately, often at a single resolution (reads, contigs, or MAGs) yielding separate species or function lists rather than mechanistic insights. Here, we developed Metalink, a tool that unifies taxonomic and functional profiling into coupled outputs across all three resolution levels. Metalink is built on three innovations. First, we constructed a Last Common Function-based fun
+
+[122] Distance-AF Multimer: A Multi-Step Approach for Protein Complex Structure Modeling with User-Defined Distance Constraints
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759232
+Abstract: The three-dimensional structure of proteins provides essential insight into the molecular mechanisms underlying their function. Many biological activities are mediated through protein interactions, making accurate structural determination of protein complexes important. Despite significant advances in computational protein structure prediction, there are still many cases where protein complexes are not correctly assembled. In particular, there are cases where experimental data, such as distances
+
+[123] Latent-Factor Stability Is Not Sufficient: Evaluating SABLE-MO in Simulated and Cancer Multi-Omics Data
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758631
+Abstract: Reproducibility is often used to assess latent factors learned from multi-omics data. Yet factors that recur across model refits may not reflect the shared biological structure of interest. We investigated this issue using SABLE-MO, a shared/private representation-learning framework with a sep-arate factor-retention procedure. We evaluated the method in simulations with known latent structure. The original retention rule produced no false biological shared-factor acceptance across 800 independen
+
+[124] Chain of Structures: Connecting Reasoning and Generation for Protein Design
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.758133
+Abstract: Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics' Chain of Science Tokens, we present chain-of-structures (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemica
+
+[125] Chromosome-level genome and caste transcriptomes for Africa's most widespread social wasp (Belonogaster juncea) reveal unexpected genomic diversity
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.16.759595
+Abstract: Belonogaster is an African genus of primitively eusocial wasps. They are widespread and conspicuous across sub-Saharan Africa and yet are among the least studied groups of social wasps. Here, we present the first high-quality, chromosome-level genome assembly for a representative of this genus, Belonogaster juncea, complemented by an RNA-seq analysis of brain transcription among individuals representing reproductive and non-reproductive castes. The assembled genome spans 315.8 Mb with a scaffold
+
+[126] Rigidity-Aware Geometric Pretraining for Protein Design and Conformational Ensembles
+Category: bioinformatics
+Topics: ai_drug_discovery
+DOI: 10.64898/2026.03.02.708991
+Abstract: Generative models have recently advanced de novo protein design by learning the statistical regularities of natural structures. However, current approaches face three key limitations: (1) Existing methods cannot jointly learn protein geometry and design tasks, where pretraining can be a solution; (2) Current pretraining methods mostly rely on local, non-rigid atomic representations for property prediction downstream tasks, limiting global geometric understanding for protein generation tasks; and
+
+[127] Kawasemi-Colours: an open end-to-end platform for structure-colour design based on avian structural colour
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.11.758316
+Abstract: Structural colour provides durable, pigment-free colouration by controlling the interaction of light with nanostructured materials rather than by using wavelength-selective pigments. In birds, non-iridescent blue and green plumage arises from coherent scattering by quasi-ordered keratin-air nanostructures, making these natural systems attractive models for sustainable colour engineering. Despite decades of research on their optical mechanisms, open end-to-end implementations that connect biologi
+
+[128] Spatiotemporal transcriptomic dynamic across the auditory pathway from young to old age in 5xFAD Alzheimer disease mice
+Category: neuroscience
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.17.759861
+Abstract: Auditory dysfunction can precede clinical dementia, but the molecular progression of Alzheimer disease (AD) pathology from the sensory periphery to auditory cortex remains poorly resolved. We performed bulk RNA sequencing of auditory cortex (AC), inferior colliculus (IC), cochlear nucleus (CN), and cochlea from 5xFAD and wild-type mice at postnatal day 50 (P50), 8 months, 11 months, and 16 months. Age-specific genotype effects and Genotype x Age interactions were evaluated using DESeq2, followed
+
+[129] Validation of a Commercially Available Non-Woven Fabric Electrode for Mouse Electroretinography
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.07.757191
+Abstract: Purpose: To evaluate the performance and usability of a commercially available nonwoven fabric electrode as a cost-effective and user-friendly alternative to standard corneal contact lens electrodes for recording murine electroretinography (ERG). Methods: Full-field ERGs were recorded in the same individual mice using both the commercially available non-woven fabric electrode and a conventional contact lens electrode in a paired design. Key parameters evaluated included (1) baseline noise stabil
+
+[130] Re-evaluating the benefit of pretraining scale in cell foundation models
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.06.04.730272
+Abstract: Single-cell foundation models are self-supervised neural networks pretrained on millions of cellular transcriptomes to learn representations that transfer across biological domains and downstream tasks. Recent benchmarks have questioned the training data scaling law for these models, showing early finetuning performance saturation on a fraction of available pretraining data. However, whether this trend holds for larger second-generation foundation models, and whether it reflects genuine saturati
+
+[131] Tensorizing Pairwise Structural Analysis: GPU-Accelerated RMSD and FCC Clustering in HADDOCK3 Without Structural Regression.
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.10.758202
+Abstract: Integrative macromolecular docking pipelines generate thousands of candidate structural decoys, relying on downstream pairwise ensemble analysis, including Root-Mean-Square Deviation (RMSD) matrices and Fraction of Common Contacts (FCC) clustering, to identify biologically relevant binding poses. However, pairwise structural comparisons scale quadratically (O(N^2)), and canonical workflows in HADDOCK3 historically rely on disk-bound trajectory serialization and iterative CPU set operations, crea
+
+[132] Exploring the Upper Boundaries of Distance-Based Protein-Ligand Binding Affinity Prediction: Accuracy Improvements via Linear Regression and Artificial Neural Networks
+Category: biophysics
+Topics: ai_drug_discovery
+DOI: 10.1101/2025.10.07.680851
+Abstract: The traditional scoring functions for protein-ligand binding affinity prediction usually adopt fixed mathematical formulas to characterize atomic interaction energies, where electrostatic interactions are described by the a/r function and van der Waals interactions by the b/r^6 -c/r^12 function. These fixed power exponents of distance-based variables severely limit the predictive flexibility and generalization of conventional scoring models. To address this limitation, this study proposes an imp
+
+[133] A simple platform for in situ DNA-PAINT optimization enables improved multiplexed super-resolution imaging in Gram-negative bacteria
+Category: microbiology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758320
+Abstract: DNA-PAINT enables super-resolution imaging with high multiplexing capacity, yet it is rarely used in nanoscale bacteriology. A likely reason is the lack of straightforward protocols and of systematic characterization of imager-docking strand pairs inside intact bacterial cells, whose envelope and dense cytoplasm differ markedly from both the DNA origami in vitro systems used to develop them, and eukaryotic cells. In this work, we establish a screening platform based on RNA-FISH, in which we exte
+
+[134] A miniaturized Arabidopsis thaliana - Botrytis cinerea seedling pathosystem and the GreenDayz workflow for longitudinal image-based phenotyping
+Category: pathology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758349
+Abstract: Plant-pathogen interactions are strongly influenced by host developmental stage, yet many Arabidopsis thaliana-Botrytis cinerea assays remain centred on mature rosette leaves and rely on inoculum loads that may exceed those involved in a primary infection. We established a miniaturized in vitro A. thaliana-B. cinerea seedling pathosystem initiated with a very low conidial dose (nominally ~25 conidia per plate) compatible with both destructive molecular sampling and repeated, non-destructive RGB 
+
+[135] Dose-additive and dose-dependent fetal testis toxicity of a nine-phthalate mixture in the rat
+Category: pharmacology and toxicology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.755118
+Abstract: Phthalates (ortho-phthalic acid diesters) are used in a variety of manufacturing processes, particularly as non-covalent plasticizers in flexible polyvinyl chloride. Phthalates are male reproductive toxicants that disrupt the development of the fetal testis, resulting in malformed seminiferous cords, multinucleated germ cells (MNGs), and decreased testosterone production. We previously reported that MNGs were a sensitive, dose-dependent marker of dipentyl phthalate (DPEP) germ cell toxicity. To 
+
+[136] Benchmarking the AlphaGenome Variant Impact score against SpliceAI on post-release ClinVar classifications and experimental splicing assays
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758362
+Abstract: The AlphaGenome Variant Impact (AVI) score ranks variants by predicted impact, and its developers report large gains over other genome-wide scores for intronic ClinVar variants. We tested AVI on two kinds of ground truth the developers did not use, under an analysis plan set before scoring: ClinVar classifications made after the developers' ClinVar release (87,666 rare single-nucleotide variants outside AVI's training chromosomes), and six splicing assays whose variants no predictor chose. In in
+
+[137] LigRNA: High-accuracy prediction of RNA-ligand binding sites via dynamic chemical complementarity and language model encoding
+Category: bioinformatics
+Topics: ai_drug_discovery, ai_reliability
+DOI: 10.64898/2026.10.15.759315
+Abstract: RNA-binding small molecules represent a validated therapeutic modality, yet pinpointing their exact RNA binding sites remains critical for mechanistic understanding and drug optimization. Experimental methods, while precise, are costly and low-throughput, necessitating robust computational alternatives. Approaches based on static feature concatenation may overlook input-dependent relationships between RNA residues and ligand functional groups. Here we present LigRNA, a graph neural network frame
+
+[138] Kawasemi-Colours: an open end-to-end platform for structure-colour design based on avian structural colour
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.11.758316
+Abstract: Structural colour provides durable, pigment-free colouration by controlling the interaction of light with nanostructured materials rather than by using wavelength-selective pigments. In birds, non-iridescent blue and green plumage arises from coherent scattering by quasi-ordered keratin-air nanostructures, making these natural systems attractive models for sustainable colour engineering. Despite decades of research on their optical mechanisms, open end-to-end implementations that connect biologi
+
+[139] SubcellPert: Benchmarking Subcellular Perturbation Prediction
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758305
+Abstract: Perturbations change both RNA abundance and intracellular organization, but gene-count predictors omit the positions needed to model spatial responses. To address this limitation, we introduce \textbf{\textit{SubcellPert}}, a benchmark for perturbation-response prediction at single-RNA-molecule resolution. It comprises 14 imaging datasets with 13.88 million cells and 3.65 billion RNA molecules. Given source observations and a directed condition change, models generate target RNA populations in n
+
+[140] Source-Decomposed Multimodal Graph Connectivity: A Temporal Mixture-Manifold Pipeline for Tracking Ischemic Injury and Treatment
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758347
+Abstract: To capture the complex, dynamic network reorganization following acute focal brain injuries that standard static or unimodal neuroimaging frameworks routinely miss, we present an open, reproducible computational multimodal pipeline that integrates resting state functional MRI and diffusion tensor imaging (DTI) into dynamic, source-decomposed graph networks. This framework preserves sub-voxel, multi-peak distributional dynamics over time by modeling regional blood-oxygen-level-dependent signals w
+
+[141] NeuroMark dFNC: Transferable Dynamic-State Templates for Subject-Specific and Frequency-Resolved Chronnectomics
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758630
+Abstract: Dynamic functional network connectivity (dFNC) commonly identifies recurring connectivity states from resting-state fMRI, but states derived independently in each dataset lack guaranteed correspondence across studies and cannot be directly estimated in new participants. We introduce NeuroMark dFNC, which extends the NeuroMark principle of prior-guided network estimation to dynamic connectivity by using reproducible reference states as priors for estimating corresponding subject-specific states. 
+
+[142] A reinforcement learning framework for goal-directed stimulation of engineered neuronal networks
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.04.14.718383
+Abstract: Systematically perturbing neuronal circuits under controlled conditions offers a promising route to understanding how they encode and process information, yet remains methodologically demanding. In vitro neuronal networks can be cultured on microelectrode arrays (MEAs) that allow stimulation and recording, and microfluidic patterning can constrain network topology to yield stable stimulation-evoked responses. Yet, the space of possible spatiotemporal stimulation patterns remains too large for ex
+
+[143] A Unified Framework for Batch Correction and Imputation in Modern Mass Spectrometry Proteomics
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.05.19.726178
+Abstract: Mass spectrometry-based proteomics, including single-cell applications, are often confounded by batch effects, inter-laboratory variation, and signal drift that can obscure biological interpretation. NMFBatch addresses these sources of unwanted variation through a unified framework that combines non-negative matrix factorization with generalized additive modelling to jointly capture discrete and continuous technical effects from protein expression data. It handles missing values directly through
+
+[144] Neural signatures of glioma progression using implanted neural interfaces
+Category: neuroscience
+Topics: ai_drug_discovery
+DOI: 10.64898/2026.07.01.735772
+Abstract: High-grade glioma is an incurable brain cancer with a median survival of approximately 14 months. Over the last 50 years, small improvements in patient outcomes have been overshadowed by significant progress in most other cancers. Yet, emerging research has revealed that neural circuits play an active and central role in driving glioma growth and proliferation, highlighting the nervous system as a promising avenue for both disease monitoring and therapeutic intervention. Here, we present a platf
+
+[145] Validation of a Commercially Available Non-Woven Fabric Electrode for Mouse Electroretinography
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.07.757191
+Abstract: Purpose: To evaluate the performance and usability of a commercially available nonwoven fabric electrode as a cost-effective and user-friendly alternative to standard corneal contact lens electrodes for recording murine electroretinography (ERG). Methods: Full-field ERGs were recorded in the same individual mice using both the commercially available non-woven fabric electrode and a conventional contact lens electrode in a paired design. Key parameters evaluated included (1) baseline noise stabil
+
+[146] What drives apparent dynamic functional connectivity in resting-state fMRI?
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759083
+Abstract: Dynamic functional connectivity (dFC) is widely used in resting-state fMRI, but it remains unclear what drives the dynamics. Here, we compared different hidden Markov models (HMMs) using evaluations made possible by bi-cross-validation (BCV), alongside ablations and use of split-half reproducibility, on resting fMRI data from the Human Connectome Project (HCP). We found that an HMM with state-varying mean activity and variance accounted for most of the apparent dynamics, with only a small gain c
+
+[147] The Genetic Discovery (GeDi) resource: Deep characterization of a multi-ancestry panel of human reference iPSCs for functional genomic studies
+Category: cell biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759173
+Abstract: Human induced pluripotent stem cells (iPSCs) are essential tools for disease modelling, drug discovery, and functional genomics, yet the field remains anchored to a small number of reference lines, limiting our understanding of how genetic background shapes cellular phenotypes across human populations. Here we describe the Genetic Discovery iPSC panel (GeDi), eight clonal iPSC lines reprogrammed from male and female donors that broadly span global human population diversity. Ancestry analysis co
+
+[148] A Sense of Direction: Detecting Natural Selection Across Non-Stationary Genomes
+Category: evolutionary biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759254
+Abstract: Codon substitution models detect natural selection by comparing non-synonymous (dN) and synonymous (dS) rates at each site. Standard methods assume stationary nucleotide composition across the phylogeny. In many genomes, however, GC-biased gene conversion (gBGC), codon usage bias, strand asymmetry, and host deaminases drive directional shifts in base composition along lineages. Under a stationary Muse-Gaut model with site-to-site synonymous rate variation (FEL), position-specific base frequencie
+
+[149] Decoding Clade-Specific bNAb-HIV-1 Env Interactions Using Machine Learning
+Category: biochemistry
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759022
+Abstract: Human immunodeficiency virus type 1 (HIV-1) exhibits extensive genetic diversity, posing a major challenge to AIDS vaccine development. Broadly neutralizing antibodies (bNAbs) isolated from HIV-1-infected individuals offer valuable templates for designing broadly protective immunogens. Here, structural and energetic descriptors extracted from experimentally resolved bNAb/HIV-1 Envelope (Env) protein-protein complexes were used to develop machine-learning (ML) models predicting binding free energ
+
+[150] A Dataset of Human Sperm Microscopy Videos for Detection, Tracking, and Motility Parameter Analysis
+Category: bioengineering
+Topics: ai_reliability
+DOI: 10.64898/2025.12.15.694470
+Abstract: We present HSMV, a dataset of Human Sperm Microscopy Videos acquired using two imaging systems. These were (i) a commercial Computer-Assisted Semen Analysis (CASA) system, and (ii) an optical microscope. The dataset contains samples from 51 healthy male participants and includes 3,161 video clips (approximately 26 hours of imagery). A subset of the clips from both systems was manually annotated with bounding boxes around each visible sperm head, linked across frames into trajectories, thereby es
+
+[151] BGC Atlas v2: biosynthetic gene clusters with taxonomic and environmental context at scale
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.09.14.751540
+Abstract: Genomic and metagenomic studies have revealed that microbes have the capacity to produce an enormous diversity of secondary metabolites. These compounds play important roles in microbial interactions and are also a major source of medicines and other useful natural products, yet only a small fraction of this biosynthetic potential has been experimentally characterized. BGC Atlas was developed to explore this largely uncharacterized diversity by placing biosynthetic gene clusters (BGCs) into geno
+
+[152] Homology-aware cross-validation strategies for generalization assessment in RNA secondary structure prediction
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.06.28.735057
+Abstract: RNA secondary structure prediction is a fundamental challenge in bioinformatics, essential for understandingthe functional roles of non-coding RNAs. Recently, deep learning models have transformed the field with impressive results, leading to critical discussions regarding the validity of current crossvalidation strategies. On the one hand, traditional random partitioning yields overoptimistic results due to data leakage from uncontrolled homology. On the other hand, removing every training sequ
+
+[153] Freshwater Blackworms Solving a Maze
+Category: biophysics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.759000
+Abstract: We investigated the behaviour of freshwater blackworms (\emph{Lumbriculus variegatus}) in a circular maze containing food in its central chamber. Analysis of 11 time-lapse recordings showed that all tested worms entered the central chamber, although first-arrival times and spatial exploration patterns varied substantially. Registered occupancy maps revealed non-uniform use of corridors and chambers. Because the study did not include a no-food control, the observations demonstrate central-chamber
+
+[154] A human model of the neurodevelopmental metabolic shift
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.758091
+Abstract: The neurodevelopmental metabolic shift transitions the metabolic pathways used by neurons to generate energy in order to critically support survival, growth, and functional maturation. To better understand metabolic regulation during human neuronal development and to facilitate the study of early neurodevelopmental disorders impacting this time window, establishing a combination of effective human model systems will be required. We report that a streamlined strategy using the genetic induction o
+
+[155] Drug-centric knowledge graph: representing therapeutic modality, pharmacology and multiscale biology
+Category: systems biology
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.15.759051
+Abstract: Biomedical knowledge graphs link targets to mechanisms, diseases and phenotypes, but target-centered representations omit much of what distinguishes therapeutic interventions. We introduce a drug-centric knowledge graph, whose identity model, schema and information-selection priorities are organized around the therapeutic intervention, and a graph built on this design. Each intervention has one identity, linked through relation types shared by all compounds, including target actions, indications
+
+[156] Experimental trophic flexibility guides a compartmentalized genome-scale model of red microalgae Galdieria sulphuraria
+Category: systems biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759342
+Abstract: The thermoacidophilic red microalga Galdieria sulphuraria combines broad organic-carbon utilization with biotechnological robustness. We integrated cultivation data for strain SAG 107.79 with an organelle-resolved genome-scale metabolic model describing autotrophic, mixotrophic and heterotrophic metabolism. Heterotrophic cultures produced 2.29, 2.03 and 2.14 g L-1 biomass on glucose, xylose and their mixture, respectively, while mixed-sugar cultures consumed glucose before xylose. Biomass compos
+
+[157] Navigating the rapidly evolving landscape of sequencing-based spatial transcriptomics technologies: a comprehensive multi-platform benchmark
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759112
+Abstract: Sequencing-based spatial transcriptomics assays offer exciting opportunities to profile transcriptome-wide expression with multicellular to even subcellular spatial resolution. As a growing number of platforms become available, with major differences in transcript detection chemistry, capture area architecture, imaging capabilities, and tissue compatibility, researchers are faced with an increasingly complex landscape to navigate. In this study, we present a systematic benchmarking of a diverse 
+
+[158] Complex enzyme active site scaffolding by iteratively detuned catalytic guidance
+Category: bioengineering
+Topics: ai_reliability
+DOI: 10.64898/2026.10.02.756307
+Abstract: De novo enzyme design requires sequences whose structures reproduce prescribed catalytic geometries. This remains challenging for active sites that couple multiple catalytic residues, cofactors and substrates. Here we introduce the Catalytic Guidance Engine (CaGE), which optimizes designed sequences to satisfy complex sets of functional constraints by alternating constraint guided structure prediction trajectories with sequence design, gradually fading the strength of the constraint information 
+
+[159] Capturing domain-level detail of molecular interactions in the IMEx Consortium binding domain data set
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759378
+Abstract: The machinery of the cell depends on physical interactions, between proteins themselves, and between proteins and other biomolecules. The detailed characterisation of these interactions, including the identification of the precise sequence regions mediating binding events, is essential to understand both normal cell biology and disease mechanisms. Protein binding domains are specific regions of a protein sequence that mediate direct contact with a partner and represent a critical layer of functi
+
+[160] Beyond the mean: genetic control of gene expression fidelity and dispersion
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.04.01.715853
+Abstract: For decades, molecular biologists have interpreted gene regulation through measurements of mean gene expression, because they could not resolve regulatory variation among individual cells. The advent of single-cell genomics has now made that variation measurable, revealing pervasive differences in gene expression among apparently similar cells. Whether this variation mainly reflects stochastic noise or an informative regulatory property remains unclear. Here we show that mean-corrected gene expr
+
+[161] SPEAR: Spatial Epitranscriptomic Analysis by Mass Spectrometry Reveals Localized RNA Modification Remodeling During Glioma Progression
+Category: cancer biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.13.758238
+Abstract: RNA modifications shape cell identity and disease, yet their spatial organization within tissues has remained largely inaccessible to existing technologies. NGS-based methods can map a limited number of individual modifications with spatial resolution, while liquid chromatography-tandem mass spectrometry (LC-MS/MS) provides comprehensive and quantitative coverage of the epitranscriptome from bulk, homogenized tissue. No current approach combines histological resolution, broad modification covera
+
+[162] PRK introns provide modular tools for enhanced transgene expression in Chlamydomonas reinhardtii
+Category: plant biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.754060
+Abstract: Chlamydomonas reinhardtii is an attractive chassis for photosynthetic biotechnology, but reliable nuclear transgene expression remains a major limitation. Despite advances in genetic engineering, achieving robust nuclear transgene expression in this organism remains challenging. One effective strategy is the introduction of introns into transgene sequences to trigger Intron-Mediated Enhancement (IME). Genomic sequences retaining endogenous introns often show higher expression than their intronle
+
+[163] An agent-based model of wound healing in fibroblast scratch assays
+Category: systems biology
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759485
+Abstract: Wound healing assays are widely used to study fibroblast migration and proliferation in the lab. Although traditional scratch assays provide valuable insight, they can be time-intensive, inflexible, and difficult to reproduce. Computational models provide an efficient and reproducible way to study fibroblast behavior in silico. We developed an agent-based simulation of fibroblast scratch assays that models migration, proliferation, contact inhibition, cell-cell mechanical interactions, and the e
+
+[164] MOFI reveals dynamic multi-omics coordination during cell fate progression
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.757904
+Abstract: Cell fate decisions are shaped by dynamic coordination across transcriptomic, chromatin, and protein layers. Time-series single-cell multi-omics assays now enable these molecular layers to be profiled across developmental stages, yet each cell is still observed only once, and the continuous multi-omics trajectories connecting discrete snapshots remain unresolved. A central challenge is therefore to jointly integrate paired omics measurements while reconstructing their shared developmental progre
+
+[165] Benchmarking large-scale single-cell RNA-seq analysis
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.1101/2025.10.28.681564
+Abstract: The increasing size of single-cell RNA sequencing (scRNA-seq) datasets poses major computational challenges. This work benchmarks the scalability, efficiency, and accuracy of five widely used analysis frameworks (Seurat, OSCA, scrapper, Scanpy, and rapids_singlecell), focusing on the impact of algorithmic and infrastructural choices on performance. We performed a systematic comparison of these workflows using representative datasets, including a 1.3 million and a 4.2 million cell dataset for sca
+
+[166] IsoMatch enables population-scale transcript integration and reveals reference-dependent isoform novelty
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.758114
+Abstract: Transcriptome analyses increasingly generate large collections of transcript models that must be integrated, compared and interpreted across samples and reference annotations. Transcript novelty depends on structural equivalence criteria and reference annotation. Here we present IsoMatch, a scalable framework that harmonizes transcript merging and reference-based classification through explicit, configurable structural criteria. IsoMatch preserves source-GTF and original-transcript traceability 
+
+[167] Denoising broadband CARS hyperspectral images on variance-stabilized data: a unified benchmark
+Category: bioengineering
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.758096
+Abstract: Broadband coherent anti-Stokes Raman scattering (BCARS) enables label-free hyperspectral chemical imaging, but weak signal components are often obscured by heteroscedastic noise. Here, we develop a physics-based variance stabilization transform and benchmark six hyperspectral denoising methods to identify effective strategies for BCARS noise reduction. The transform yields nearly intensity-independent noise variance while preserving the dispersive Raman response. Within this framework, we compar
+
+[168] Evaluating Nanopore read trimming and quality filtering in bacterial genomics
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.12.758701
+Abstract: Oxford Nanopore Technologies (ONT) sequencing is widely used in bacterial genomics, particularly for reference-based variant calling and de novo assembly. Both analyses routinely start with quality control (QC) preprocessing, but as ONT basecalling accuracy has improved, its necessity and downstream trade-offs remain poorly defined. We benchmarked 17 preprocessing combinations, built from three adapter trimmers (Dorado, Porechop_ABI, Barbell) and three quality-based processing tools (Filtlong, C
+
+[169] CucurbitAgent: An AI agent for exploring cucurbit multi-omics resources
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.758138
+Abstract: Functional genomics in crops increasingly depends on integrating information from an extensive literature and heterogeneous multi-omics datasets. Large language models (LLMs) offer a powerful approach to synthesizing these resources and revealing hidden connections across datasets; however, they frequently hallucinate, producing plausible but unsupported claims, when responding to gene-specific queries. Here, we present CucurbitAgent, an AI research agent for functional genomics in the Cucurbita
+
+[170] The Multi-scale Copula Index (MCI): a new information-theoretic measure of association and its applications in functional cancer genomics
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.10.758174
+Abstract: Cancer genomic analyses increasingly involve large, complex datasets representing diverse omics variables, such as gene expression, mutations, copy number alterations, genetic perturbations (e.g. CRISPR or iRNA), drug sensitivity, and clinical phenotypes, making it crucial to accurately measure associations among these variables. Traditional correlation-based methods, like the Pearson correlation coefficient, often assume linearity, Gaussian distributions, and independence among variables, leadi
+
+[171] Modulator Resolves Transcript-, Allele-, and Condition-associated RNA Modification Differences from Direct RNA Sequencing
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759385
+Abstract: Nanopore direct-RNA sequencing (DRS) reports RNA modifications on single molecules, but there is no comprehensive algorithm for processing, aligning, and differentiating base modifications across reads that are often 5'-truncated. Here we present Modulator, which assigns every read, truncated or not, to a fragmentform, defined by a shared transcript 3'-end and the splice-junctions upstream of it. Of note, Modulator builds fragmentforms from genomic alignments without a reference transcriptome, e
+
+[172] Complex-trait dissection with Evolve-and-Resequence: Selection for improved flight performance in laboratory fruit fly populations
+Category: evolutionary biology
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.15.759414
+Abstract: Evolve-and-Resequence studies combine experimental evolution with molecular sequencing, enabling associations between complex trait phenotypes and evolved genomic changes. For this, a targeted complex trait is subjected to artificial laboratory selection in genetically variable populations. Using populations of fruit flies Drosophila melanogaster from the DSPR background, we have conducted a short-term selection study on a highly complex trait : flight performance. We selected for improved fligh
+
+[173] The Evolving Bileome: A Pan-Repository Landscape of Expanded Bile Acid and Related Steroidal Signatures
+Category: bioinformatics
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.10.758218
+Abstract: Bile acids and related steroidal metabolites are among the most studied biomolecules, yet recent work has revealed far greater structural diversity than previously recognized, much of it shaped by the microbiome. We previously introduced a repository-scale bile acid MS/MS library built from queries targeting C24 bile acid fragmentation, limited to Orbitrap Q Exactive datasets within GNPS/MassIVE. Here we announce a major expansion of this library: a bile acid and steroidal MS/MS spectral library
+
+[174] Benchmarking Large Language Models for Assay-Aware Drug-Target Binding Affinity Prediction
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758217
+Abstract: Machine learning models for molecular discovery often train on bioactivity data from heterogeneous assays, yet assay context is rarely explicitly represented. We investigate whether natural-language assay descriptions provide predictive information beyond molecular and protein representations. We develop ACL-DTI (Assay-aware Contrastive Learning-based Drug Target Interaction) and MAMMAL-AsAP, an assay-context extension of MAMMAL-DTI. Across five triplet-disjoint random splits, assay-aware models
+
+[175] Neuronal avalanches in awake macaque V1 and V4
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.11.758173
+Abstract: Neuronal avalanches are cascades of synchronised activity whose sizes follow power law. Analyses of avalanches shed light on cortical dynamics operating near a critical point. In awake monkeys, avalanches were found in motor and premotor cortex, where they are invariant to temporal binning, detection threshold and the number of electrodes employed. Whether awake primate early visual cortex, which receives strong structured afferent drive, shares these properties has not been tested. We analyzed 
+
+[176] A membrane-impermeant nucleic acid dye converts bacteriophage plaque assays into a machine-readable format for automated counting
+Category: microbiology
+Topics: ai_reliability
+DOI: 10.64898/2026.08.07.741843
+Abstract: Plaque assays remain the gold standard for bacteriophage quantification, but routine plaque counting is labor-intensive, time-consuming, and poorly suited to large experiments or automated workflows. Conventional plaque images also often provide insufficient contrast for simple software-based counting, especially when plaques are small, faint, or heterogeneous. Here we show that a membrane-impermeant nucleic acid dye (SYTOX) can convert standard bacteriophage plaque assays into a high-contrast, 
+
+[177] PatientPheX: A Full-Text Biomedical Corpus for Patient-Specific Phenotype Information Extraction
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.07.757319
+Abstract: Patient-specific phenotype information extraction identifiers and normalizes phenotype entities and links them with individual patients, supporting rare disease research and genotype-phenotype analysis. However, existing datasets rarely combine full-text biomedical content with detailed annotations of patients, phenotypes, related entities, and their associations. In this work, we present PatientPheX, a corpus for patient-specific phenotype information extraction comprising 200 full-text article
+
+[178] Motor Evoked Potentials in Preclinical Models of Spinal Cord Injury and Stroke in Rodents: A Systematic Review.
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.757956
+Abstract: Motor Evoked Potentials (MEPs) serve as an invaluable tool for assessing corticospinal tract (CST) integrity and motor pathway function in preclinical models of spinal cord injury (SCI) and stroke. Despite their diagnostic and prognostic utility, substantial methodological variability persists across studies, complicating interpretation and cross-study comparisons. This systematic review synthesizes MEP acquisition and interpretation protocols from 83 rodent SCI and stroke studies published sinc
+
+[179] Cortex-wide single-cell activity mapping in freely moving mice
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.755518
+Abstract: How the cortex supports complex, naturalistic behavior can be revealed only in freely moving animals. Although head-mounted microscopes promise access to the neural dynamics underlying such behavior, fundamental trade-offs among field of view, spatial resolution, device weight, and background contamination have prevented cortex-wide single-neuron recording, leaving distributed cortical coordination largely inaccessible. To meet these challenges, we introduce COMET (Cortex-wide Observational Mini
+
+[180] Mitigating genotype-driven bias improves atlas-scale single-cell DNA methylome profiling
+Category: genomics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.756197
+Abstract: Advances in single-cell DNA methylation profiling render cohort-level, cell-type-resolved atlasing efforts increasingly feasible. In such studies, cells from multiple individuals with distinct genotypes are often analyzed in pooled experimental designs. This creates a major analytical challenge: C-to-T variants are misinterpreted as bisulfite-conversion events, thus conflating genotype and DNA methylation differences. In sparse single-cell bisulfite sequencing data, this issue can confound DNA m
+
+[181] Protein Response to ACL Injury in Humans Show Early Cartilage Remodeling and Sex-Specific Effects
+Category: biochemistry
+Topics: scientific_informatics
+DOI: 10.64898/2026.05.12.724692
+Abstract: Objective: Anterior cruciate ligament (ACL) tears increase the risk for developing knee osteoarthritis (OA). Females have greater risk for both. However, studies defining sex-specific protein responses in human cartilage after ACL injury are lacking. We hypothesize that articular cartilage's response to an injurious environment differs depending on sex. Methods: We compared the proteomic profiles of normal cartilage with injured cartilage harvested from the intercondylar area during ACL surgery.
+
+[182] Pervasive expression of early embryonic programs in cancer has stage-dependent survival impact
+Category: cancer biology
+Topics: ai_drug_discovery
+DOI: 10.64898/2026.10.13.758949
+Abstract: Cancers frequently co-opt genes and transcriptional networks associated with embryos and stem cells, yet the extent and significance of expressing gene programs associated with the earliest stages of embryonic development in cancer remain unknown. Systematic analysis across large cancer cohorts using EmbryoRadar, a suite of preimplantation stage-specific machine learning classifiers, reveals that early embryonic gene expression programs are widespread in human tumours. Transcriptional similarity
+
+[183] Metabolic Cost Asymmetry as a Structural Regulariser for Recurrent Spiking Neural Networks
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.758141
+Abstract: Cortical energy expenditure is heavily dominated by synaptic transmission, with excitatory (glutamatergic) signalling demanding substantially more ATP than inhibitory (GABAergic) signalling. Yet existing trainable spiking neural networks treat energy as a generic, synapse-type-agnostic penalty. Here, we embed this fundamental glutamate/GABA cost asymmetry as a Lagrangian penalty within a surrogate-gradient learning framework, and use it to train a Dale's-law-compliant recurrent microcircuit on t
+
+[184] Directional coordination along the cortical hierarchy is selectively reorganized in schizophrenia
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.05.25.727703
+Abstract: Schizophrenia has long been framed as a disorder of the cortical hierarchy. Yet, the hierarchy has been studied almost entirely as fixed anatomy, leaving its moment-to-moment expression in ongoing brain activity unmeasured. By retaining the signed lead-lag geometry that conventional connectivity measures discard, complex-valued phase synchrony resolved a dynamic directional axis of coordination in which regions reversed their lead-lag relationship over time as the brain transitioned among feedba
+
+[185] Photoplethysmography-based glucose estimation with feature selection
+Category: bioengineering
+Topics: scientific_informatics
+DOI: 10.64898/2026.10.07.757242
+Abstract: Diabetes mellitus is a major global health challenge, and routine blood glucose monitoring still depends on invasive fingerstick sampling. This study examines non-invasive glucose estimation from photoplethysmography (PPG) using a signal quality pipeline and a multi-criteria feature selection framework. PPG recordings from 51 subjects were collected with a custom low-cost system, and 32 passed quality control. Fourteen morphological and autonomic features were extracted and ranked using Pearson 
+
+[186] A public-data reproducibility benchmark of a 2.5-D U-Net with a slice-level topology term for type-B aortic dissection segmentation
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.07.757473
+Abstract: Background: Type-B aortic dissection requires separation of the true and false lumina in heterogeneous, anisotropic CTA. A topology term may reduce fragmentation, but its reproducibility must be tested under a fixed case split and independent native-grid evaluation. Methods: We used the public Graz type-B aortic dissection CTA collection (40 cases; CC BY 4.0) and froze a 28/6/6 case split for training, development, and held-out testing. A compact 2.5-D U-Net trained with cross-entropy plus multi
+
+[187] Movie Watching for Individual Functional Brain Network Estimation in Adolescents
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.757407
+Abstract: Precision functional mapping (PFM) reveals stable individual differences in brain functional network organization and holds promise for advancing neuropsychiatric clinical care. PFM requires sufficient high-quality and densely-sampled functional MRI data at the individual level that is typically acquired during the so-called resting state while passively fixating on a crosshair. However, crosshair fixation acquisitions can be challenging especially for pediatric or patient populations, where alt
+
+[188] Optimization of Search and Acquisition Strategies for DSSO Crosslinking Mass Spectrometry using Protein Prospector and Touchstone.
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.757733
+Abstract: Crosslinking mass spectrometry (XL-MS) enables residue-level characterization of protein-protein interactions (PPIs) in both purified assemblies and complex biological systems. Cleavable crosslinkers such as DSSO are widely used to facilitate analysis of complex samples, yet there remains limited consensus on how best to leverage their properties in both acquisition and data analysis workflows. In part, this reflects differences in scoring, classification, and false discovery rate (FDR) estimati
+
+[189] 2,234 attempts to harmonize a multi-platform B-cell lymphoma bulk transcriptomic dataset: ComBat is superior by cross-batch prediction quality
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.757652
+Abstract: Background. Cross-platform transcriptomic harmonization benchmarks rely on individual success metric each: correlation with a reference profile, classifier accuracy, or a composite imported from single-cell integration. We found no published study that computes multiple orthogonal metric classes over one set of harmonization approaches and measures overlapping between the best approaches by these metrics. Methods. We used the 2,234 approaches of the recent real-world benchmark on 7,174 B-cell ly
+
+[190] A novel behavioral paradigm to model hypermemory-like features in rats
+Category: neuroscience
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.757535
+Abstract: Episodic memory is essential to everyday life and personal identity. However, its dysfunctions can profoundly affect mental health, and translational methods for investigating them in animals remain limited. Most rodent paradigms focus on memory deficits, whereas few tools model abnormally enhanced and persistent memories. Here, we developed a behavioral paradigm to induce hypermemory-like features in adult male and female rats using a version of object recognition (OR) and object location (OL) 
+
+[191] Benchmarking the Performance of a Commercial Electrostatic Linear Ion Trap (ELIT) Charge Detection Mass Spectrometer For Higher-Order Antibody Aggregate Analysis
+Category: biochemistry
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.757778
+Abstract: Higher-order antibody aggregates remain challenging to characterize using conventional mass spectrometry because of their low abundance, broad mass distributions, and extensive heterogeneity. Here, the practical performance of a commercial electrostatic linear ion trap charge detection mass spectrometer (XevoTM CDMS) was evaluated for therapeutic antibody analysis. The platform provided reproducible mass and charge measurements, with repeatability and intermediate-precision RSDs below 1%, and ma
+
+[192] NoiTox: A Machine Learning Strategy for Peptide Toxicity Prediction Reveals Label Noise in Benchmark Datasets
+Category: bioinformatics
+Topics: ai_drug_discovery, ai_reliability
+DOI: 10.64898/2026.10.08.757741
+Abstract: Motivation: Peptide toxicity remains a major bottleneck in drug development, as small sequence variations can drastically alter cytotoxic profiles. Experimental assessment is costly and time-consuming, motivating computational predictors. Existing approaches often rely on single black-box architectures, limiting interpretability and obscuring the contribution of individual sequence features. Furthermore, benchmark datasets frequently define the negative class through annotation filters rather th
+
+[193] A Benchmark of Unsupervised Circadian Phase Inference Methods for Bulk Transcriptomic Data
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.08.757747
+Abstract: Circadian phase can be inferred from gene expression when sample collection times are unavailable, but the available methods have not been systematically compared. We compared ten unsupervised phase inference methods and two clock-gene baselines on 25 datasets with reference times (16 real datasets from five studies and 9 simulations). The primary measure was the aligned circular mean absolute error (MAE), with a permutation test for significance, circular correlations and gene-level reconstruct
+
+[194] Programmable design of functional RNAs through multimodal generative learning
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.14.759035
+Abstract: RNA engineering is bottlenecked by the tight coupling among sequence, structure, and function, leaving the field reliant on heuristics or screening. We introduce RNAverse, a multimodal generative model that learns a conditionable design grammar from RNA sequences, experimental structural probing profiles, and functional annotations. Beyond setting a new state of the art across 16 predictive modeling tasks, RNAverse inverts into generative design across four distinct RNA classes through three reg
+
+[195] Systematic evaluation of transcript normalization methods and quantification pipelines across long-read sequencing platforms
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.10.757893
+Abstract: Long-read RNA sequencing (lrRNA-seq) has transformed transcriptomics by enabling full-length isoform resolution, yet transcript quantification remains confounded by platform-dependent length biases and tool choices. While a quantification normalization step is common in short-read RNA-seq, this has not yet been extended to lrRNA-seq and the field lacks a systematic analysis of normalization strategies applied to long reads data. Here, we systematically benchmarked quantification pipelines and do
+
+[196] Dual-graph deconvolution of enzyme fitness: an interpretable framework to identify and explain catalytic modulators
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.15.759402
+Abstract: Models trained on protein sequences can predict mutational effects, but their outputs represent a convolution of different phenotypes. Isolating stability-independent activity effects is essential for rational enzyme design, allosteric drug design and functional annotation, yet existing pLM-based deconvolution methods lack interpretability. Here, we introduce a hybrid framework that pairs stability predictors with probabilistic graphical models of coevolution. Benchmarked on all enzymes with ava
+
+[197] An integrated data exploration engine of knowledge, expression and genetic association for human transposable elements
+Category: bioinformatics
+Topics: ai_reliability
+DOI: 10.64898/2026.10.09.757957
+Abstract: Transposable elements (TEs) constitute a substantial fraction of the human genome and contribute to genomic and epigenomic regulation. However, TE-related knowledge remains fragmented across the literature and databases, with inconsistent identifiers hindering integration and reuse. Here, we present TE-Dee (Transposable Element Data Exploration Engine), a curated resource that harmonizes literature-derived TE relationships with TE annotations, tissue-specific expression, and GTEx v11 eQTL associ

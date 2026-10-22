@@ -82,6 +82,8 @@ def collect_rss(source: dict) -> tuple[list[dict], dict]:
                 "source": source["name"],
                 "source_id": source["id"],
                 "source_type": "rss",
+                "content_type": source.get("content_type", "news"),
+                "evidence_stage": source.get("evidence_stage"),
                 "published": _parse_date(entry),
                 "url": url,
                 "summary": entry.get("summary", "").strip(),
