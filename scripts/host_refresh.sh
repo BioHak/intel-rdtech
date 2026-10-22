@@ -3,7 +3,7 @@ set -euo pipefail
 
 PROJECT_ROOT="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 WEB_ROOT="${INTEL_RDTECH_WEB_ROOT:-$HOME/intel.rdtechadvisory.com}"
-PYTHON="${INTEL_RDTECH_PYTHON:-$PROJECT_ROOT/.venv/bin/python}"
+PYTHON="${INTEL_RDTECH_PYTHON:-$HOME/virtualenv/intel-rdtech/bin/python}"
 
 cd "$PROJECT_ROOT"
 
