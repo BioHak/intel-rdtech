@@ -52,19 +52,19 @@ Three prebuilt approaches are therefore being evaluated for distinct roles: **Op
 
 ### Capability Comparison
 
-| Capability | OpenAlex | SPECTER2 | BERTopic |
-|---|---|---|---|
-| Assign scientific subject | **Primary strength** | Possible | Emergent only |
-| Hierarchical taxonomy | **Excellent** | None inherently | None inherently |
-| Explain why paper was categorized | **Strong** | Moderate/weak | Moderate |
-| Match the user's scientific interests | Moderate | **Excellent** | Weak |
-| Rank large paper sets for relevance | Useful | **Excellent** | Not primary purpose |
-| Detect unexpected themes | Limited | Moderate | **Excellent** |
-| Detect emerging trends | Limited | Possible | **Excellent** |
-| Requires labeled relevance examples | No | Eventually desirable | No |
-| Handles a completely new paper | **Yes** | **Yes** | Yes, but context dependent |
-| Good replacement for current topic labels | **Yes** | Partly | No |
-| Good replacement for current relevance filter | Partly | **Yes** | No |
+| Capability                                    | OpenAlex             | SPECTER2             | BERTopic                   |
+| --------------------------------------------- | -------------------- | -------------------- | -------------------------- |
+| Assign scientific subject                     | **Primary strength** | Possible             | Emergent only              |
+| Hierarchical taxonomy                         | **Excellent**        | None inherently      | None inherently            |
+| Explain why paper was categorized             | **Strong**           | Moderate/weak        | Moderate                   |
+| Match *your* scientific interests             | Moderate             | **Excellent**        | Weak                       |
+| Rank 1,700 papers for you                     | Useful               | **Excellent**        | Not primary purpose        |
+| Detect unexpected themes                      | Limited              | Moderate             | **Excellent**              |
+| Detect emerging trends                        | Limited              | Possible             | **Excellent**              |
+| Requires labeled Geno-relevant examples       | No                   | Eventually desirable | No                         |
+| Handles a completely new paper                | **Yes**              | **Yes**              | Yes, but context dependent |
+| Good replacement for current topic labels     | **Yes**              | Partly               | No                         |
+| Good replacement for current relevance filter | Partly               | **Yes**              | No                         |
 
 ### Architectural Interpretation
 
