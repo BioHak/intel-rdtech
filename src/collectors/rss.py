@@ -1,6 +1,7 @@
 from datetime import datetime, timezone
 from time import mktime
 from typing import Any
+import re
 
 import feedparser
 import requests
@@ -31,6 +32,26 @@ def _parse_date(entry: Any) -> str | None:
                 pass
 
     return None
+
+
+def _clean_summary(entry: Any, source: dict) -> str:
+    """Return the useful article summary without feed-specific metadata."""
+
+    summary = entry.get("summary", "").strip()
+
+    # Nature journal RSS feeds prepend a <p> block containing journal name,
+    # publication date, and DOI. Those fields are already represented by the
+    # normalized record, so keep only the article description that follows.
+    if source.get("id", "").startswith("nature_"):
+        summary = re.sub(
+            r"^\s*<p>.*?</p>\s*",
+            "",
+            summary,
+            count=1,
+            flags=re.IGNORECASE | re.DOTALL,
+        )
+
+    return summary.strip()
 
 
 def collect_rss(source: dict) -> tuple[list[dict], dict]:
@@ -86,7 +107,7 @@ def collect_rss(source: dict) -> tuple[list[dict], dict]:
                 "evidence_stage": source.get("evidence_stage"),
                 "published": _parse_date(entry),
                 "url": url,
-                "summary": entry.get("summary", "").strip(),
+                "summary": _clean_summary(entry, source),
                 "topics": source.get("topics", []),
                 "company": None,
                 "score": None,
