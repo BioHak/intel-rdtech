@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Intel-RDTech | Gold Set Reviewer</title>
+  <style>
+    :root{font-family:Inter,system-ui,sans-serif;color:#18202a;background:#f4f6f8}*{box-sizing:border-box}body{margin:0}.wrap{max-width:1050px;margin:auto;padding:32px}.top{display:flex;justify-content:space-between;gap:20px;align-items:flex-end}.muted{color:#687381}.card{background:white;border:1px solid #dce2e8;border-radius:12px;padding:26px;margin-top:20px;box-shadow:0 2px 10px #0000000a}.meta,.tags{display:flex;gap:8px;flex-wrap:wrap}.tag{background:#edf1f5;padding:5px 9px;border-radius:999px;font-size:13px}.abstract{line-height:1.55;white-space:pre-wrap}.scores{display:grid;grid-template-columns:repeat(4,1fr);gap:10px}.scores button,.nav button,.save{padding:12px;border:1px solid #bcc6d0;background:white;border-radius:8px;cursor:pointer}.scores button.active{outline:3px solid #1e293b;background:#e8edf2}.topics label{display:block;margin:8px 0}textarea{width:100%;min-height:85px;padding:10px}.nav{display:flex;justify-content:space-between;margin-top:18px}.progress{height:8px;background:#dfe5ea;border-radius:10px;overflow:hidden;margin-top:10px}.progress div{height:100%;background:#334155}a{color:#315b7d}.save{margin-top:12px;font-weight:600}.warning{font-size:13px;color:#7b4d00}.hidden{display:none}@media(max-width:650px){.scores{grid-template-columns:1fr 1fr}.top{display:block}}
+  </style>
+</head>
+<body><main class="wrap">
+  <div class="top"><div><h1>Intel-RDTech Gold Set Reviewer</h1><div class="muted">Human relevance labels for classifier evaluation</div></div><div id="count"></div></div>
+  <div class="progress"><div id="bar"></div></div>
+  <section class="card">
+    <div class="meta"><span class="tag" id="audit"></span><span class="tag" id="category"></span><span class="tag" id="doi"></span></div>
+    <h2 id="title"></h2>
+    <div class="tags" id="keywordTopics"></div>
+    <p class="abstract" id="abstract">Abstract will be loaded from data/feeds/feed.json when available.</p>
+    <p><a id="paper" target="_blank" rel="noopener">Open paper</a></p>
+    <h3>Relevance</h3>
+    <div class="scores">
+      <button data-score="0">0 — Noise</button><button data-score="1">1 — Peripheral</button><button data-score="2">2 — Relevant</button><button data-score="3">3 — Must surface</button>
+    </div>
+    <h3>Human topics</h3><div class="topics" id="topics"></div>
+    <h3>Review notes</h3><textarea id="notes" placeholder="Why this should or should not surface..."></textarea>
+    <div class="nav"><button id="prev">← Previous</button><button id="next">Next →</button></div>
+  </section>
+  <button class="save" id="download">Download labeled JSON</button>
+  <p class="warning">Labels are autosaved in this browser. Download the JSON when finished and replace data/evaluation/biorxiv_gold_v1.json with it.</p>
+</main>
+<script>
+const GOLD='../data/evaluation/biorxiv_gold_v1.json', FEED='../data/feeds/feed.json', KEY='intel-rdtech-gold-v1';
+let dataset, records=[], i=0, feedByDoi=new Map();
+const $=id=>document.getElementById(id);
+async function load(){
+  dataset=await (await fetch(GOLD)).json(); records=dataset.records;
+  try{const f=await (await fetch(FEED)).json(); const arr=Array.isArray(f)?f:(f.records||[]); arr.forEach(x=>{if(x.doi)feedByDoi.set(x.doi,x)});}catch(e){}
+  const saved=JSON.parse(localStorage.getItem(KEY)||'{}'); records.forEach(r=>{if(saved[r.doi])Object.assign(r,saved[r.doi]);});
+  const first=records.findIndex(r=>r.human_relevance===null); i=first<0?0:first; render();
+}
+function saveLocal(){const o={};records.forEach(r=>o[r.doi]={human_relevance:r.human_relevance,human_topics:r.human_topics,review_notes:r.review_notes});localStorage.setItem(KEY,JSON.stringify(o));}
+function render(){const r=records[i], f=feedByDoi.get(r.doi)||{}; const done=records.filter(x=>x.human_relevance!==null).length;
+ $('count').textContent=`${i+1} / ${records.length} • ${done} labeled`; $('bar').style.width=`${100*done/records.length}%`; $('audit').textContent=`Audit #${r.audit_id}`;$('category').textContent=r.category;$('doi').textContent=r.doi;$('title').textContent=r.title;
+ $('keywordTopics').innerHTML='<strong>Keyword:</strong> '+(r.keyword_topics||[]).map(t=>`<span class="tag">${t}</span>`).join(' '); $('abstract').textContent=f.summary||'Abstract unavailable in local feed.'; $('paper').href=f.url||`https://www.biorxiv.org/content/${r.doi}`;
+ document.querySelectorAll('[data-score]').forEach(b=>b.classList.toggle('active',Number(b.dataset.score)===r.human_relevance));
+ $('topics').innerHTML=dataset.label_schema.human_topics.map(t=>`<label><input type="checkbox" value="${t}" ${r.human_topics.includes(t)?'checked':''}> ${t}</label>`).join(''); $('notes').value=r.review_notes||'';
+ $('prev').disabled=i===0;$('next').disabled=i===records.length-1;
+}
+function commit(){const r=records[i];r.review_notes=$('notes').value;r.human_topics=[...$('topics').querySelectorAll('input:checked')].map(x=>x.value);saveLocal();}
+document.addEventListener('click',e=>{if(e.target.matches('[data-score]')){records[i].human_relevance=Number(e.target.dataset.score);commit();render();}});
+$('notes').addEventListener('change',commit);$('topics').addEventListener('change',commit);$('prev').onclick=()=>{commit();if(i>0)i--;render()};$('next').onclick=()=>{commit();if(i<records.length-1)i++;render()};
+$('download').onclick=()=>{commit();const blob=new Blob([JSON.stringify(dataset,null,2)+'\n'],{type:'application/json'}),a=document.createElement('a');a.href=URL.createObjectURL(blob);a.download='biorxiv_gold_v1.json';a.click();URL.revokeObjectURL(a.href)};
+load().catch(e=>document.body.innerHTML=`<pre>Unable to load evaluation data. Run this page through a local web server.\n\n${e}</pre>`);
+</script></body></html>

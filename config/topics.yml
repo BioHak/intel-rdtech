@@ -1,0 +1,79 @@
+topics:
+
+  - id: ai_drug_discovery
+    name: AI / ML in Drug Discovery
+    enabled: true
+    include_any:
+      - artificial intelligence
+      - machine learning
+      - deep learning
+      - neural network
+      - foundation model
+      - large language model
+      - generative model
+      - representation learning
+      - graph neural network
+      - transformer
+    context_any:
+      - drug discovery
+      - drug development
+      - therapeutic
+      - small molecule
+      - compound
+      - medicinal chemistry
+      - target identification
+      - target discovery
+      - virtual screening
+      - molecular property
+      - protein design
+      - molecule generation
+
+  - id: scientific_informatics
+    name: Scientific Informatics
+    enabled: true
+    include_any:
+      - scientific informatics
+      - research informatics
+      - laboratory informatics
+      - data integration
+      - data management
+      - FAIR data
+      - knowledge graph
+      - ontology
+      - metadata
+      - data provenance
+      - data lineage
+      - research data
+
+  - id: lab_automation
+    name: Laboratory Automation
+    enabled: true
+    include_any:
+      - laboratory automation
+      - lab automation
+      - automated laboratory
+      - autonomous laboratory
+      - self-driving laboratory
+      - robotic laboratory
+      - laboratory robotics
+      - high-throughput screening
+      - high throughput screening
+      - automated experimentation
+
+  - id: ai_reliability
+    name: AI Reliability / Reproducibility
+    enabled: true
+    include_any:
+      - reproducibility
+      - reproducible
+      - hallucination
+      - hallucinations
+      - model validation
+      - external validation
+      - benchmark
+      - benchmarking
+      - out-of-distribution
+      - out of distribution
+      - uncertainty quantification
+      - model robustness
+      - data leakage

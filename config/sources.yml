@@ -5,6 +5,8 @@ sources:
     type: rss
     enabled: true
     url: https://www.nature.com/nbt.rss
+    content_type: publication
+    evidence_stage: peer_reviewed
     topics:
       - ai_drug_discovery
       - pharma_rd
@@ -14,6 +16,8 @@ sources:
     type: rss
     enabled: true
     url: https://www.nature.com/nrd.rss
+    content_type: publication
+    evidence_stage: peer_reviewed
     topics:
       - drug_discovery
       - pharma_rd
@@ -23,6 +27,8 @@ sources:
     type: rss
     enabled: false
     url: https://www.fiercebiotech.com/rss/xml
+    content_type: news
+    evidence_stage: null
     topics:
       - pharma_rd
       - industry
@@ -32,6 +38,8 @@ sources:
     type: rss
     enabled: true
     url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml
+    content_type: regulatory
+    evidence_stage: null
     topics:
       - regulatory
       - pharma_rd
