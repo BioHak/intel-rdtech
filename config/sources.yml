@@ -1,0 +1,37 @@
+sources:
+
+  - id: nature_biotech
+    name: Nature Biotechnology
+    type: rss
+    enabled: true
+    url: https://www.nature.com/nbt.rss
+    topics:
+      - ai_drug_discovery
+      - pharma_rd
+
+  - id: nature_drug_discovery
+    name: Nature Reviews Drug Discovery
+    type: rss
+    enabled: true
+    url: https://www.nature.com/nrd.rss
+    topics:
+      - drug_discovery
+      - pharma_rd
+
+  - id: fierce_biotech
+    name: Fierce Biotech
+    type: rss
+    enabled: false
+    url: https://www.fiercebiotech.com/rss/xml
+    topics:
+      - pharma_rd
+      - industry
+
+  - id: fda_press
+    name: FDA Press Announcements
+    type: rss
+    enabled: true
+    url: https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml
+    topics:
+      - regulatory
+      - pharma_rd

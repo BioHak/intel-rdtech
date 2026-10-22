@@ -1,0 +1,576 @@
+{
+  "generated_at": "2026-10-22T14:10:34.598562+00:00",
+  "record_count": 36,
+  "source_count": 3,
+  "source_status": [
+    {
+      "source_id": "nature_biotech",
+      "name": "Nature Biotechnology",
+      "url": "https://www.nature.com/nbt.rss",
+      "ok": true,
+      "http_status": 200,
+      "records": 8,
+      "warning": null
+    },
+    {
+      "source_id": "nature_drug_discovery",
+      "name": "Nature Reviews Drug Discovery",
+      "url": "https://www.nature.com/nrd.rss",
+      "ok": true,
+      "http_status": 200,
+      "records": 8,
+      "warning": null
+    },
+    {
+      "source_id": "fda_press",
+      "name": "FDA Press Announcements",
+      "url": "https://www.fda.gov/about-fda/contact-fda/stay-informed/rss-feeds/press-releases/rss.xml",
+      "ok": true,
+      "http_status": 200,
+      "records": 20,
+      "warning": null
+    }
+  ],
+  "records": [
+    {
+      "title": "Recordanelles capture transient gene expression in single human cells",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-22T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03350-7",
+      "summary": "<p>Nature Biotechnology, Published online: 22 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03350-7\">doi:10.1038/s41587-026-03350-7</a></p>RNA sequencing can capture high-resolution snapshots of a cell’s transcriptome, but transient changes in individual cells cannot be captured over long periods at a transcriptome-wide scale. Now, a synthetic organelle termed the ‘recordanelle’ can record cellular RNAs in cells for several days and be read with single-cell sensitivity.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Human Argonaute 2 is a programmable targeting domain for RNA editing",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-22T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03358-z",
+      "summary": "<p>Nature Biotechnology, Published online: 22 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03358-z\">doi:10.1038/s41587-026-03358-z</a></p>ALTER is a programmable RNA base editor built entirely from human proteins. By using human AGO2 instead of bacterial CRISPR–Cas proteins, ALTER mitigates a key risk factor for harmful immune responses in therapeutic applications while also proving generally more effective than dCas13-based editors.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Deep dynamical models of single-cell multiomic velocities predict loss-of-function and rescue perturbations in B cells",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-21T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03348-1",
+      "summary": "<p>Nature Biotechnology, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03348-1\">doi:10.1038/s41587-026-03348-1</a></p>DynaVelo integrates single-cell omics data to infer cell state dynamics and regulatory interactions.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Recordanelles for transcriptome-wide single-cell RNA recording in human cells",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-21T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03327-6",
+      "summary": "<p>Nature Biotechnology, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03327-6\">doi:10.1038/s41587-026-03327-6</a></p>Recordanelles continuously and unbiasedly record the transcriptome throughout time in living mammalian cells.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA approves hepatitis B antisense drug",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-21T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41573-026-00166-7",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 21 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00166-7\">doi:10.1038/d41573-026-00166-7</a></p>FDA approves hepatitis B antisense drug",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves First-of-Its-Kind Chronic Hepatitis B Treatment",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-21T00:40:38+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-its-kind-chronic-hepatitis-b-treatment",
+      "summary": "FDA today approved Hibsago (bepirovirsen) injection, in combination with existing antiviral therapy, to treat chronic hepatitis B virus (HBV) infection in certain adults without cirrhosis.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves Once-Weekly Generic Hormone Therapy Patch for Women",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-20T20:57:36+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-once-weekly-generic-hormone-therapy-patch-women",
+      "summary": "Today, the U.S. Food and Drug Administration approved the first generic of Climara Pro (estradiol and levonorgestrel transdermal system, 0.045 mg per day/0.015 mg), a transdermal hormone therapy patch for women with an intact uterus applied once a week.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Issues Final Guidance on Prescription Drug Apps and Software",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-20T18:03:14+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-final-guidance-prescription-drug-apps-and-software",
+      "summary": "The U.S. Food and Drug Administration today released final guidance establishing a clear framework for how drug companies can develop, distribute, and label apps used alongside their prescription medicines.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Genetic code expansion enables plant-directed control of bacterial activity",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-20T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03360-5",
+      "summary": "<p>Nature Biotechnology, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03360-5\">doi:10.1038/s41587-026-03360-5</a></p>The noncanonical amino acid O-methyl-L-tyrosine is used as a tool to control microbial protein synthesis across diverse plants.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Engineered human Argonaute 2 for targeted C-to-U RNA base editing",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-20T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03359-y",
+      "summary": "<p>Nature Biotechnology, Published online: 20 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03359-y\">doi:10.1038/s41587-026-03359-y</a></p>Human Argonaute is repurposed for RNA editing.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves Immunotherapy That May Allow Certain Patients with Rectal Cancer to Avoid Chemotherapy, Radiation and Surgery",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-19T21:19:38+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-immunotherapy-may-allow-certain-patients-rectal-cancer-avoid-chemotherapy-radiation-and",
+      "summary": "The U.S. Food and Drug Administration today granted accelerated approval for a new use of the immunotherapy Jemperli (dostarlimab-gxly) that may allow some patients with locally advanced rectal cancer to avoid common treatments that can have a lasting impact on their daily life.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Editor’s pick: Bioptimus",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-19T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03345-4",
+      "summary": "<p>Nature Biotechnology, Published online: 19 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03345-4\">doi:10.1038/s41587-026-03345-4</a></p>Each year, Nature Biotechnology highlights companies that received sizeable early-stage funding in the previous year. Bioptimus is developing multimodal and multiscale AI pathology models for biomarker and drug treatment prediction.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Translating base editors: a decade of progress from the bench to the clinic",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-16T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41573-026-01548-7",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 16 October 2026; <a href=\"https://www.nature.com/articles/s41573-026-01548-7\">doi:10.1038/s41573-026-01548-7</a></p>Base editing, a gene editing technology capable of installing point mutations with high efficiency and precision, was first reported a decade ago. This Review examines the evolution of base editors and their road to clinical translation, highlighting key advances, ongoing challenges and the current clinical trial landscape.",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Structural variant detection across sequencing technologies",
+      "source": "Nature Biotechnology",
+      "source_id": "nature_biotech",
+      "source_type": "rss",
+      "published": "2026-10-15T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41587-026-03332-9",
+      "summary": "<p>Nature Biotechnology, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/s41587-026-03332-9\">doi:10.1038/s41587-026-03332-9</a></p>HitSV models the interaction between genomic repetitiveness and signature intensity to improve structural variant detection.",
+      "topics": [
+        "ai_drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "One year of Commissioner’s National Priority Vouchers",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-15T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41573-026-00165-8",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 15 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00165-8\">doi:10.1038/d41573-026-00165-8</a></p>One year of Commissioner’s National Priority Vouchers",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Launches the Rare Disease Framework Initiative to Develop a Holistic, Fit-For-Purpose Framework for Rare Disease Drug Development",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-14T20:50:52+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-rare-disease-framework-initiative-develop-holistic-fit-purpose-framework-rare-disease",
+      "summary": "The U.S. Food and Drug Administration, a division within the U.S. Department of Health and Human Services (HHS), today announced the Rare Disease Framework Initiative to reimagine the development of drugs and biologics for rare diseases.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-14T20:14:51+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-certain-people-bcg-unresponsive-bladder-cancer",
+      "summary": "FDA Approves First Treatment for Certain People With BCG-Unresponsive Bladder Cancer",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA new drug approvals in Q3 2026",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-14T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41573-026-00164-9",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 14 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00164-9\">doi:10.1038/d41573-026-00164-9</a></p>FDA new drug approvals in Q3 2026",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Filling the massive AI drug discovery data gap",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-12T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41573-026-00137-y",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 12 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00137-y\">doi:10.1038/d41573-026-00137-y</a></p>Charlotte Deane, co-leader of the OpenBind initiative, discusses the need for more protein–small molecule binding data.",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Molecular glue targets ALK resistance",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-07T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41573-026-00163-w",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00163-w\">doi:10.1038/d41573-026-00163-w</a></p>Molecular glue targets ALK resistance",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Next-generation immune cell engagers for B cell depletion in autoimmune diseases",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-07T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/s41573-026-01534-z",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 07 October 2026; <a href=\"https://www.nature.com/articles/s41573-026-01534-z\">doi:10.1038/s41573-026-01534-z</a></p>Immune cell engagers are emerging as a strategy for deep B cell depletion in autoimmune diseases. This Review examines their mechanisms, clinical development and next-generation designs, including T cell, natural killer cell and γδ T cell-engaging formats, and considers lessons from haematological malignancies to improve efficacy, safety and durability of immune modulation.",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Seeks Public Input to Support Ibogaine Research",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-05T18:02:06+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-seeks-public-input-support-ibogaine-research",
+      "summary": "The U.S. Food and Drug Administration today announced a request for information (RFI) describing approaches the agency is considering for the design of early-phase clinical trials of ibogaine drug products and seeking public input on those approaches.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Gene therapy for rare lysosomal storage disorder nabs FDA approval",
+      "source": "Nature Reviews Drug Discovery",
+      "source_id": "nature_drug_discovery",
+      "source_type": "rss",
+      "published": "2026-10-05T05:00:00+00:00",
+      "url": "https://www.nature.com/articles/d41573-026-00160-z",
+      "summary": "<p>Nature Reviews Drug Discovery, Published online: 05 October 2026; <a href=\"https://www.nature.com/articles/d41573-026-00160-z\">doi:10.1038/d41573-026-00160-z</a></p>Gene therapy for rare lysosomal storage disorder nabs FDA approval",
+      "topics": [
+        "drug_discovery",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves First Heart Valve Designed to Grow with Children",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-10-02T00:02:08+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-heart-valve-designed-grow-children",
+      "summary": "The U.S. Food and Drug Administration today approved the Autus Size-Adjustable Valve, a surgically implanted pulmonary heart valve for pediatric patients with congenital pulmonary valve disease.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Launches Nationwide Effort to Expand Scientific Expertise and Consumer Voices to Advisory Committees",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-30T18:26:33+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-nationwide-effort-expand-scientific-expertise-and-consumer-voices-advisory-committees",
+      "summary": "The U.S. Food and Drug Administration today announced a broad, nationwide recruitment effort to expand the range of qualified voices and perspectives on its advisory committees— the independent bodies that inform some of the most consequential decisions in American public health.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Investigation Leads to Charges Against Two Indian Nationals Involved in Transnational Counterfeit Drug Distribution Scheme",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-30T02:01:07+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-investigation-leads-charges-against-two-indian-nationals-involved-transnational-counterfeit-drug",
+      "summary": "The U.S. Attorney’s Office for the Middle District of Florida and the Criminal Division of the U.S. Department of Justice today announced federal charges against Swapnadip Roy, 33, and Vicky Ramancha, 37, both Indian nationals.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves First Treatment for MCT8 Deficiency",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-29T02:43:18+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-treatment-mct8-deficiency",
+      "summary": "The U.S. Food and Drug Administration today approved Emcitate (tiratricol) tablets for oral suspension to treat peripheral thyrotoxicosis (excess thyroid hormone levels in the blood that causes symptoms, such as rapid heart rate, increased blood pressure and adverse effects on metabolism) in patient",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA intends to evaluate changes to the PMTA regulatory framework",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-29T02:00:01+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-intends-evaluate-changes-pmta-regulatory-framework",
+      "summary": "FDA is carefully reviewing its experience implementing the Premarket Tobacco Product Application (PMTA) rule, as well as recent judicial developments, including a federal lawsuit filed in the U.S. District Court for the Northern District of Texas challenging the current regulatory framework.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "Federal Court Enters Consent Decree Against Gold Star Distribution, Inc. Following Persistent Insanitary Warehouse Conditions",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-24T00:50:17+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/federal-court-enters-consent-decree-against-gold-star-distribution-inc-following-persistent",
+      "summary": "A U.S. Food and Drug Administration investigation resulted in a federal court order, dated Sept. 21, 2026, stopping a warehouse operator from distributing FDA-regulated products including food, drugs, medical devices, and cosmetics until it fixes its operations to meet federal legal requirements.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Updates Regulations to Advance Innovative Alternatives to Animal Testing",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-21T17:58:34+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-updates-regulations-advance-innovative-alternatives-animal-testing",
+      "summary": "The FDA today issued a direct final rule that updates its regulations to clarify that non-animal methods can be used where appropriate for testing the safety of drugs and biological products intended for human use before they’re tried in humans.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves First Gene Therapy for Pediatric Patients with Sanfilippo Syndrome Type A",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-17T23:26:43+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-gene-therapy-pediatric-patients-sanfilippo-syndrome-type",
+      "summary": "The U.S. Food and Drug Administration today approved Fayuvi (rebisufligene etisparvovec-hopf), the first treatment for pediatric patients with mucopolysaccharidosis type IIIA (MPS IIIA), also known as Sanfilippo syndrome type A.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Launches Expedited IND Pilot, Begins Accepting Applications",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-15T18:53:31+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-launches-expedited-ind-pilot-begins-accepting-applications",
+      "summary": "The U.S. Food and Drug Administration today announced the final design of the Expedited Investigational New Drug (IND) Pilot.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Takes Steps to Maintain Newborn Access to Life-Saving Starter Nutrition Products",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-05T01:18:49+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-takes-steps-maintain-newborn-access-life-saving-starter-nutrition-products",
+      "summary": "The U.S. Food and Drug Administration today announced it is taking action, consistent with the Trump administration’s commitment to protecting vulnerable patients and maintaining access to critical medical products, to help address a potential supply gap of neonatal starter parenteral nutrition (PN)",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Grants Accelerated Approval to a New Breast Cancer Treatment",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-05T00:38:04+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-grants-accelerated-approval-new-breast-cancer-treatment",
+      "summary": "The U.S. Food and Drug Administration today expanded treatment options for adult patients with advanced breast cancer, reflecting the FDA’s commitment to advancing medical innovation and getting new treatments to patients who need them.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Approves First Drug to Treat Alexander Disease",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-04T00:48:27+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-approves-first-drug-treat-alexander-disease",
+      "summary": "The U.S. Food and Drug Administration has approved Zanvastro (zilganersen) injection for the treatment of Alexander disease in pediatric and adult patients.",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    },
+    {
+      "title": "FDA Issues Emergency Use Authorization for Drugs to Prevent and Treat New World Screwworm in Dogs and Cats",
+      "source": "FDA Press Announcements",
+      "source_id": "fda_press",
+      "source_type": "rss",
+      "published": "2026-09-03T20:01:02+00:00",
+      "url": "http://www.fda.gov/news-events/press-announcements/fda-issues-emergency-use-authorization-drugs-prevent-and-treat-new-world-screwworm-dogs-and-cats",
+      "summary": "The U.S. Food and Drug Administration today issued an Emergency Use Authorization (EUA) for Capstar (nitenpyram) tablets and revised the EUA for Nitenpyram Tablets, the generic version of Capstar",
+      "topics": [
+        "regulatory",
+        "pharma_rd"
+      ],
+      "company": null,
+      "score": null
+    }
+  ]
+}
